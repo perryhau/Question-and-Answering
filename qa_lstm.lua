@@ -165,7 +165,7 @@ else -- first argument is between 1-to-4
   wamod:training()
   _,maxcosmod=create_modules()
 
-print("->Loaded thethe  network")
+print("->Loaded the  network")
 end
 
 end
