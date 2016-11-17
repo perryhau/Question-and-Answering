@@ -8,9 +8,9 @@
   
   Training:
 
-          : th qa_lstm.lua -- To train with a new network initialization
+           th qa_lstm.lua -- To train with a new network initialization
 
-          : th qa_lstm.lua load-- To load an existing network and train 
+           th qa_lstm.lua load-- To load an existing network and train 
   
 
 
@@ -32,5 +32,5 @@
 
  Place it in the folder make_corpus and run the following:
 
- the makeitlikeins.lua \<your qa corpus \>
+ th makeitlikeins.lua \<your qa corpus \>
    
