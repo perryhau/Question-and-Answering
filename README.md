@@ -6,14 +6,18 @@
 
   The baseline model is QA-LSTM from paper "Improved Representation Learning for Question Answer Matching" by Ming et al 2016 : http://www.aclweb.org/anthology/P/P16/P16-1044.pdf
   
-  Training: th qa_lstm.lua -- To create a new network
+  Training:
+
+          : th qa_lstm.lua -- To create a new network
 
           : th qa_lstm.lua load-- To  load an existing network 
   
 
 
 
-# To customize your corpus:
+
+ To adapt your corpus:
+---------------------
 
  Make sure that the qa corpus have the following pattern:
 
