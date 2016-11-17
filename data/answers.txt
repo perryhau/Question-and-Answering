@@ -1,0 +1,770 @@
+1	  idx_3 idx_10 idx_11 idx_12 idx_3 idx_13 idx_14 idx_15 idx_16 idx_10 idx_11
+2	  idx_3 idx_10 idx_11 idx_12 idx_3 idx_13 idx_14 idx_15 idx_16 idx_10 idx_11
+3	  idx_3 idx_18 idx_20 idx_21 idx_18 idx_3 idx_18 idx_22 idx_20 idx_23 idx_24 idx_18 idx_25 idx_18
+4	  idx_27 idx_28 idx_29 idx_18 idx_21 idx_30
+5	  idx_3 idx_34 idx_18 idx_35 idx_3
+6	  idx_37 idx_20 idx_38 idx_7 idx_18 idx_39 idx_18
+7	  idx_3 idx_45 idx_3 idx_46 idx_24 idx_3
+8	  idx_3 idx_45 idx_3 idx_46 idx_24 idx_3
+9	  idx_56 idx_57 idx_58 idx_59 idx_45 idx_3 idx_60 idx_7 idx_61 idx_62 idx_24 idx_63 idx_64 idx_3 idx_65 idx_7 idx_3
+10	  idx_25 idx_56 idx_57 idx_58 idx_59 idx_45 idx_3 idx_60 idx_7 idx_61 idx_62 idx_24 idx_63 idx_64 idx_3 idx_65 idx_7 idx_3
+11	  idx_69 idx_40 idx_18 idx_18 idx_70 idx_71 idx_24 idx_18 idx_53 idx_67 idx_40 idx_72 idx_18 idx_16 idx_56
+12	  idx_73 idx_58 idx_18 idx_35 idx_71 idx_24 idx_18 idx_74 idx_75 idx_76 idx_24 idx_77 idx_18 idx_24 idx_78 idx_53
+13	  idx_67 idx_80 idx_18 idx_81 idx_21 idx_82 idx_7
+14	  idx_84 idx_85 idx_7 idx_18 idx_18 idx_18 idx_43 idx_18
+15	  idx_86 idx_87 idx_21 idx_18 idx_18 idx_21 idx_88 idx_89 idx_3 idx_18 idx_7
+16	  idx_96 idx_3 idx_97 idx_98 idx_7 idx_99 idx_100 idx_101 idx_102 idx_103 idx_104 idx_25 idx_105 idx_3 idx_106 idx_7 idx_3 idx_10 idx_107 idx_94 idx_108 idx_91 idx_90 idx_109 idx_110 idx_16 idx_111 idx_94 idx_112 idx_113 idx_114 idx_93 idx_94 idx_115 idx_116
+17	  idx_91 idx_90 idx_117 idx_43 idx_18 idx_118 idx_16 idx_93 idx_94 idx_18 idx_96 idx_3 idx_97 idx_98 idx_7 idx_99 idx_100 idx_101 idx_102 idx_103 idx_104 idx_25 idx_105 idx_3 idx_106 idx_7 idx_3 idx_10 idx_107 idx_94 idx_108 idx_91 idx_90 idx_109 idx_110 idx_16 idx_111 idx_94 idx_112 idx_113 idx_114 idx_93 idx_94 idx_115 idx_116
+18	  idx_43 idx_18 idx_124 idx_18 idx_18 idx_120 idx_24 idx_41
+19	  idx_129 idx_130 idx_7 idx_131 idx_132 idx_125 idx_126 idx_127 idx_133 idx_7 idx_18 idx_31 idx_134 idx_18 idx_16 idx_18 idx_18 idx_18 idx_127 idx_135 idx_18 idx_36 idx_43 idx_136 idx_7 idx_18 idx_16 idx_18 idx_21 idx_43 idx_137 idx_7 idx_18 idx_16 idx_18 idx_24 idx_18
+20	  idx_16 idx_131 idx_132 idx_125 idx_126 idx_127 idx_133 idx_31
+21	  idx_3 idx_139 idx_140 idx_141 idx_142 idx_7 idx_3 idx_144 idx_31 idx_3 idx_145 idx_146 idx_147 idx_64 idx_3 idx_148 idx_149 idx_24 idx_150 idx_151 idx_152 idx_16 idx_3
+22	  idx_3 idx_139 idx_140 idx_141 idx_142 idx_7 idx_3 idx_144 idx_31 idx_3 idx_145 idx_146 idx_147 idx_64 idx_3 idx_148 idx_149 idx_24 idx_150 idx_151 idx_152 idx_16 idx_3
+23	  idx_91 idx_31 idx_3 idx_155 idx_153 idx_144 idx_16 idx_3 idx_156 idx_33 idx_18 idx_24 idx_153 idx_35 idx_3
+24	  idx_159 idx_21 idx_18 idx_18 idx_18 idx_7 idx_160 idx_161 idx_130 idx_162 idx_18 idx_7 idx_18 idx_18 idx_163 idx_89 idx_3 idx_153 idx_158 idx_18 idx_7 idx_18 idx_3 idx_153 idx_18 idx_18 idx_31 idx_3 idx_10 idx_164 idx_7 idx_18 idx_165 idx_18 idx_7 idx_160 idx_18 idx_166 idx_157 idx_18 idx_24 idx_3 idx_18 idx_18 idx_167 idx_18 idx_168 idx_169 idx_53 idx_170 idx_171 idx_7 idx_22 idx_3 idx_153 idx_31 idx_172 idx_18 idx_18 idx_18 idx_25 idx_18 idx_18
+25	  idx_91 idx_18 idx_175 idx_176 idx_168
+26	  idx_3 idx_13 idx_178 idx_179 idx_18 idx_16 idx_18
+27	  idx_91 idx_20 idx_180 idx_130 idx_43 idx_18 idx_18
+28	  idx_18 idx_181 idx_24 idx_183 idx_181 idx_182
+29	  idx_73 idx_40 idx_186 idx_187 idx_56 idx_188 idx_18 idx_24 idx_18 idx_73 idx_40 idx_189 idx_190 idx_24 idx_18 idx_25 idx_18 idx_24 idx_58 idx_18 idx_16
+30	  idx_73 idx_48 idx_51 idx_186 idx_187 idx_188 idx_191 idx_24
+31	  idx_198 idx_199 idx_200 idx_201 idx_202 idx_24
+32	  idx_198 idx_199 idx_200 idx_201 idx_202 idx_24
+33	  idx_206 idx_31 idx_3 idx_207 idx_208 idx_187 idx_43 idx_209 idx_7 idx_210 idx_16 idx_3 idx_18 idx_211 idx_7
+34	  idx_21 idx_18 idx_75 idx_136 idx_130 idx_212 idx_21 idx_18 idx_213
+35	  idx_216 idx_217 idx_18 idx_18 idx_24
+36	  idx_216 idx_217 idx_24 idx_53 idx_18
+37	  idx_221 idx_219 idx_31 idx_43 idx_222 idx_18 idx_24 idx_35 idx_3 idx_18 idx_18 idx_223 idx_31 idx_43 idx_224 idx_18 idx_18 idx_168 idx_165 idx_18 idx_224 idx_225 idx_187 idx_18 idx_226 idx_227 idx_24 idx_53 idx_228 idx_75 idx_134
+38	  idx_206 idx_185 idx_224 idx_225 idx_21 idx_18 idx_226 idx_227 idx_24 idx_53 idx_228 idx_75 idx_134
+39	  idx_198 idx_199 idx_200 idx_201 idx_202 idx_24
+40	  idx_198 idx_199 idx_200 idx_201 idx_202 idx_24
+41	  idx_56 idx_18 idx_21 idx_18 idx_232 idx_233 idx_18
+42	  idx_162 idx_186 idx_187 idx_56 idx_188 idx_191 idx_18 idx_18 idx_56
+43	  idx_241 idx_242 idx_7 idx_243 idx_244
+44	  idx_241 idx_242 idx_7 idx_243 idx_244 idx_18 idx_245 idx_43 idx_18
+45	  idx_16 idx_119 idx_252 idx_253 idx_18 idx_254 idx_210 idx_255 idx_181 idx_186 idx_24 idx_256 idx_257 idx_3 idx_258 idx_40 idx_259 idx_187 idx_228 idx_199 idx_260 idx_25 idx_261 idx_199 idx_262 idx_25
+46	  idx_16 idx_119 idx_252 idx_253 idx_181 idx_7 idx_254 idx_210 idx_255 idx_181 idx_186 idx_24 idx_256 idx_257 idx_3 idx_258 idx_40 idx_259 idx_187 idx_228 idx_199 idx_260 idx_25 idx_261 idx_199 idx_262 idx_25
+47	  idx_265 idx_266 idx_171 idx_267 idx_24
+48	  idx_265 idx_169 idx_24 idx_18 idx_268 idx_267 idx_18 idx_24
+49	  idx_3 idx_274 idx_275 idx_276 idx_277 idx_31 idx_278
+50	  idx_3 idx_274 idx_275 idx_276 idx_277 idx_31 idx_278
+51	  idx_282 idx_283 idx_3 idx_284 idx_285 idx_24
+52	  idx_282 idx_283 idx_3 idx_284 idx_285 idx_24
+53	  idx_3 idx_287 idx_290 idx_18 idx_291 idx_292 idx_18 idx_18 idx_18 idx_286
+54	  idx_130 idx_293 idx_130 idx_18 idx_296 idx_195
+55	  idx_206 idx_303 idx_304 idx_21 idx_288 idx_305 idx_306 idx_307 idx_308
+56	  idx_309 idx_206 idx_303 idx_304 idx_21 idx_288 idx_305 idx_306 idx_307 idx_308
+57	  idx_39 idx_312 idx_206 idx_31 idx_207 idx_187 idx_307 idx_290 idx_18 idx_21 idx_313 idx_18 idx_18 idx_18
+58	  idx_3 idx_317 idx_22 idx_318 idx_265 idx_319 idx_16 idx_320 idx_24
+59	  idx_314 idx_18 idx_18 idx_3 idx_290 idx_20 idx_18 idx_317 idx_22 idx_318 idx_265 idx_319 idx_16 idx_320 idx_24
+60	  idx_25 idx_324 idx_24 idx_325 idx_136 idx_18
+61	  idx_25 idx_324 idx_24 idx_325 idx_18 idx_326
+62	  idx_327 idx_73 idx_40 idx_18 idx_199
+63	  idx_3 idx_328 idx_270 idx_7 idx_329 idx_288 idx_330 idx_189 idx_244 idx_331 idx_288 idx_199 idx_18 idx_18 idx_330 idx_31 idx_332 idx_21 idx_51 idx_333
+64	  idx_3 idx_337 idx_18 idx_18 idx_7 idx_307 idx_290 idx_40 idx_189 idx_334 idx_335 idx_187 idx_336
+65	  idx_3 idx_153 idx_290 idx_338 idx_339 idx_20 idx_341 idx_16 idx_18 idx_16
+66	  idx_18 idx_3 idx_290 idx_31 idx_3 idx_153 idx_277
+67	  idx_345 idx_343 idx_90 idx_344 idx_43 idx_18 idx_18 idx_18
+68	  idx_350 idx_18 idx_351 idx_18 idx_199 idx_352 idx_18 idx_18 idx_18 idx_21
+69	  idx_3 idx_356 idx_7 idx_3 idx_18 idx_18 idx_357
+70	  idx_3 idx_13 idx_358 idx_359 idx_360 idx_18 idx_16 idx_3 idx_18 idx_361
+71	  idx_364 idx_31 idx_3 idx_139 idx_362 idx_363
+72	  idx_365 idx_31 idx_368 idx_366 idx_16 idx_367 idx_18 idx_199 idx_280 idx_18
+73	  idx_369 idx_110 idx_187 idx_322 idx_372 idx_373 idx_130 idx_3 idx_18 idx_18 idx_18 idx_7 idx_3 idx_10 idx_11 idx_371 idx_7
+74	  idx_37 idx_20 idx_377 idx_24 idx_28 idx_43 idx_378 idx_7 idx_379 idx_374
+75	  idx_374 idx_375 idx_380 idx_20 idx_377 idx_24 idx_28 idx_43 idx_378 idx_7 idx_379 idx_374
+76	  idx_3 idx_18 idx_381 idx_18 idx_39 idx_70
+77	  idx_369 idx_18 idx_43 idx_18 idx_130 idx_18 idx_16 idx_3 idx_18 idx_18
+78	  idx_73 idx_2 idx_383 idx_18 idx_385 idx_20 idx_386 idx_387
+79	  idx_18 idx_24 idx_13 idx_390 idx_7 idx_3 idx_391 idx_18
+80	  idx_18 idx_18 idx_395 idx_7 idx_3 idx_394 idx_18 idx_24 idx_18 idx_3 idx_396 idx_79 idx_397 idx_18 idx_24
+81	  idx_3 idx_400 idx_401 idx_402 idx_24 idx_126 idx_403
+82	  idx_3 idx_400 idx_401 idx_402 idx_24 idx_126 idx_403
+83	  idx_408 idx_73 idx_66 idx_405 idx_21 idx_80 idx_406
+84	  idx_73 idx_410 idx_56 idx_312 idx_411 idx_327 idx_73 idx_18 idx_18
+85	  idx_18 idx_18 idx_413 idx_346 idx_18 idx_193 idx_24 idx_18 idx_24 idx_43 idx_18 idx_18
+86	  idx_18 idx_3 idx_18 idx_21 idx_414 idx_18 idx_322 idx_337 idx_18 idx_129 idx_18 idx_18 idx_319 idx_18 idx_7 idx_134
+87	  idx_18 idx_416 idx_79 idx_18 idx_24 idx_18
+88	  idx_418 idx_419 idx_411 idx_420 idx_239 idx_16 idx_421 idx_422 idx_233 idx_21 idx_321 idx_414 idx_16 idx_423 idx_424 idx_425 idx_199 idx_322 idx_148 idx_18 idx_418 idx_189 idx_419 idx_21 idx_18 idx_411 idx_420 idx_21 idx_43 idx_18 idx_18 idx_418 idx_48 idx_189 idx_426 idx_130 idx_43 idx_427 idx_7 idx_18 idx_130 idx_428 idx_16 idx_43 idx_429 idx_18 idx_18 idx_21 idx_430 idx_21 idx_43 idx_18 idx_18 idx_7 idx_43 idx_18 idx_404 idx_16 idx_307 idx_396 idx_3 idx_404 idx_18 idx_134 idx_18
+89	  idx_21 idx_411 idx_420 idx_239 idx_16 idx_421 idx_422 idx_233 idx_21 idx_321 idx_414 idx_16 idx_423 idx_424 idx_425 idx_199 idx_322 idx_148
+90	  idx_431 idx_433 idx_31 idx_434 idx_130 idx_3 idx_433 idx_7 idx_435 idx_227 idx_436 idx_437 idx_438 idx_21 idx_78 idx_39 idx_84
+91	  idx_3 idx_433 idx_7 idx_435 idx_227 idx_436 idx_437 idx_438 idx_21 idx_78 idx_39 idx_84
+92	  idx_18 idx_18 idx_441 idx_18 idx_346 idx_221 idx_36
+93	  idx_43 idx_411 idx_48 idx_274 idx_18 idx_84 idx_18 idx_449
+94	  idx_3 idx_411 idx_450 idx_18 idx_130 idx_451 idx_18 idx_404 idx_18 idx_18 idx_21
+95	  idx_16 idx_3 idx_18 idx_18 idx_16 idx_3 idx_454
+96	  idx_346 idx_37 idx_28 idx_461 idx_307 idx_462
+97	  idx_346 idx_37 idx_28 idx_461 idx_307 idx_462 idx_463 idx_129 idx_37 idx_20 idx_43 idx_18 idx_16
+98	  idx_465 idx_18 idx_466 idx_18 idx_18 idx_7
+99	  idx_309 idx_7 idx_3 idx_468 idx_18 idx_7 idx_3
+100	  idx_453 idx_20 idx_470 idx_16 idx_18 idx_400 idx_18 idx_21 idx_3 idx_471 idx_472 idx_453 idx_24 idx_473
+101	  idx_471 idx_472 idx_453 idx_24 idx_473
+102	  idx_476 idx_37 idx_477 idx_39 idx_3 idx_475 idx_7
+103	  idx_3 idx_479 idx_122 idx_368 idx_344 idx_18 idx_480 idx_162 idx_18 idx_21 idx_3 idx_481 idx_187 idx_43
+104	  idx_3 idx_223 idx_7 idx_3 idx_485
+105	  idx_25 idx_3 idx_223 idx_7 idx_3 idx_485
+106	  idx_309 idx_7 idx_491 idx_492 idx_493 idx_16 idx_3 idx_494
+107	  idx_491 idx_492 idx_493 idx_16 idx_3 idx_494
+108	  idx_3 idx_498 idx_18 idx_499 idx_307 idx_335 idx_497
+109	  idx_503 idx_504 idx_374 idx_18 idx_18 idx_21 idx_18 idx_22 idx_18 idx_104 idx_24 idx_23 idx_21 idx_3 idx_18 idx_7 idx_374 idx_505 idx_130 idx_3 idx_500 idx_7 idx_501
+110	  idx_43 idx_507 idx_18 idx_508 idx_18 idx_21 idx_509 idx_510 idx_16 idx_3
+111	  idx_16 idx_18 idx_503 idx_18 idx_3 idx_511 idx_18 idx_51 idx_512 idx_36 idx_18 idx_509 idx_18 idx_24 idx_512 idx_36 idx_509 idx_510 idx_16 idx_18 idx_18 idx_18 idx_206 idx_18 idx_18 idx_3 idx_10 idx_18 idx_18 idx_21 idx_18 idx_18 idx_16 idx_509 idx_513 idx_24 idx_513 idx_79 idx_509 idx_18 idx_24 idx_56 idx_18 idx_266 idx_21 idx_514 idx_515 idx_400 idx_516 idx_199 idx_510 idx_168 idx_517 idx_279 idx_16 idx_3 idx_511 idx_130 idx_18 idx_18 idx_518 idx_3 idx_10 idx_18
+112	  idx_39 idx_3 idx_519 idx_7 idx_18 idx_16 idx_374 idx_520
+113	  idx_503 idx_20 idx_521 idx_390 idx_16 idx_3 idx_18 idx_7 idx_18 idx_24 idx_18 idx_16
+114	  idx_503 idx_18 idx_35 idx_3 idx_18 idx_7 idx_3 idx_522 idx_7
+115	  idx_374 idx_18 idx_18 idx_18 idx_503
+116	  idx_166 idx_525 idx_527 idx_16 idx_22 idx_37 idx_528 idx_80 idx_18 idx_374 idx_157
+117	  idx_130 idx_43 idx_18 idx_3 idx_292 idx_107 idx_87 idx_18 idx_518 idx_3 idx_529 idx_7 idx_18
+118	  idx_503 idx_18 idx_21 idx_3 idx_530 idx_371 idx_7 idx_18 idx_24 idx_20 idx_521 idx_21 idx_531 idx_532 idx_130 idx_533 idx_7
+119	  idx_537 idx_538 idx_21 idx_18 idx_168 idx_539 idx_33 idx_374 idx_18 idx_38 idx_540 idx_18 idx_244 idx_374 idx_18 idx_21
+120	  idx_545 idx_546 idx_547 idx_548 idx_549 idx_550 idx_551 idx_24 idx_552
+121	  idx_545 idx_546 idx_547 idx_548 idx_549 idx_550 idx_551 idx_24 idx_552
+122	  idx_73 idx_167 idx_43 idx_555 idx_7 idx_18 idx_556 idx_244 idx_309 idx_139 idx_7 idx_233 idx_167 idx_557 idx_558 idx_559 idx_560 idx_18 idx_18 idx_532
+123	  idx_73 idx_167 idx_18 idx_557 idx_558 idx_559 idx_560 idx_542 idx_532
+124	  idx_18 idx_18 idx_21 idx_562 idx_3 idx_179 idx_18 idx_170
+125	  idx_566 idx_7 idx_567 idx_24 idx_18 idx_7
+126	  idx_37 idx_568 idx_566 idx_7 idx_567 idx_24 idx_18 idx_7
+127	  idx_18 idx_18 idx_18 idx_7 idx_571 idx_170 idx_18
+128	  idx_56 idx_574 idx_18 idx_24 idx_56
+129	  idx_3 idx_292 idx_65 idx_7 idx_3 idx_576 idx_18 idx_40 idx_368 idx_577 idx_18 idx_24 idx_3 idx_576 idx_18 idx_40 idx_18
+130	  idx_3 idx_18 idx_579 idx_7 idx_43
+131	  idx_18 idx_18 idx_18 idx_18 idx_24
+132	  idx_18 idx_466 idx_18 idx_24 idx_18 idx_18 idx_18
+133	  idx_3 idx_585 idx_586 idx_3 idx_587 idx_588 idx_586 idx_3 idx_589 idx_588 idx_586 idx_24 idx_3 idx_18
+134	  idx_590 idx_18 idx_21 idx_3 idx_592 idx_18 idx_25
+135	  idx_16 idx_18 idx_18 idx_199 idx_16
+136	  idx_25 idx_3 idx_597 idx_7 idx_56
+137	  idx_25 idx_3 idx_597 idx_7 idx_3 idx_18 idx_18 idx_306 idx_598 idx_18 idx_170
+138	  idx_600 idx_18 idx_24 idx_18 idx_36 idx_18 idx_21 idx_601 idx_602 idx_24
+139	  idx_444 idx_40 idx_18 idx_342 idx_170 idx_445 idx_24 idx_313 idx_18 idx_21 idx_18 idx_603 idx_604 idx_21 idx_605 idx_21 idx_18 idx_603 idx_187 idx_18
+140	  idx_3 idx_599 idx_90 idx_608 idx_609 idx_170 idx_610 idx_611 idx_18 idx_24 idx_3 idx_599 idx_31 idx_342 idx_24 idx_612 idx_613 idx_170 idx_3
+141	  idx_3 idx_599 idx_90 idx_608 idx_609 idx_170 idx_610 idx_611 idx_614 idx_266 idx_73 idx_615 idx_616 idx_614 idx_18 idx_3 idx_18 idx_3 idx_599 idx_31 idx_342 idx_24 idx_612 idx_613 idx_170 idx_3 idx_18 idx_266 idx_617 idx_170 idx_3
+142	  idx_130 idx_7 idx_18 idx_3 idx_599 idx_28 idx_3 idx_153 idx_618 idx_7 idx_515 idx_253 idx_18 idx_622 idx_623 idx_560 idx_24 idx_109 idx_80 idx_428 idx_43 idx_173 idx_18 idx_24 idx_40 idx_18 idx_624 idx_7 idx_18
+143	  idx_3 idx_599 idx_28 idx_3 idx_153 idx_618 idx_7 idx_515 idx_253
+144	  idx_84 idx_7 idx_3 idx_119 idx_210 idx_18 idx_16 idx_18 idx_18 idx_625 idx_18
+145	  idx_35 idx_3 idx_18 idx_7 idx_628 idx_168 idx_3
+146	  idx_43 idx_118 idx_16 idx_18 idx_3 idx_631 idx_24 idx_378 idx_7 idx_3
+147	  idx_3 idx_630 idx_18 idx_18 idx_635 idx_18 idx_7
+148	  idx_18 idx_638 idx_636 idx_637 idx_521 idx_21 idx_3
+149	  idx_639 idx_640 idx_641 idx_642 idx_18 idx_21
+150	  idx_43 idx_647 idx_648 idx_649 idx_35 idx_650 idx_567 idx_346 idx_26 idx_16 idx_651
+151	  idx_16 idx_132 idx_18 idx_18 idx_568 idx_3 idx_644 idx_645 idx_18 idx_43 idx_647 idx_648 idx_649 idx_35 idx_650 idx_567 idx_346 idx_26 idx_16 idx_651
+152	  idx_654 idx_655 idx_656 idx_560 idx_522 idx_7
+153	  idx_138 idx_31 idx_3 idx_658 idx_659 idx_7 idx_374 idx_13
+154	  idx_16 idx_43 idx_661 idx_662 idx_16 idx_663 idx_400
+155	  idx_16 idx_43 idx_661 idx_662 idx_16 idx_663 idx_400
+156	  idx_21 idx_665 idx_24 idx_666 idx_645
+157	  idx_21 idx_665 idx_24 idx_666 idx_645
+158	  idx_37 idx_18 idx_16 idx_668 idx_168 idx_18
+159	  idx_669 idx_24 idx_652 idx_18 idx_35 idx_3 idx_18 idx_19 idx_16 idx_3 idx_400 idx_589 idx_121 idx_18 idx_36 idx_18 idx_16 idx_3 idx_18
+160	  idx_480 idx_3 idx_658 idx_7 idx_3 idx_248 idx_18
+161	  idx_672 idx_454 idx_371 idx_18 idx_7 idx_645 idx_18 idx_18 idx_21 idx_3 idx_18 idx_480 idx_3 idx_18 idx_24 idx_18 idx_658 idx_7 idx_390 idx_669 idx_16 idx_18
+162	  idx_43 idx_674 idx_7 idx_675 idx_24 idx_676 idx_130 idx_677 idx_130 idx_678 idx_277 idx_679 idx_24
+163	  idx_43 idx_674 idx_7 idx_675 idx_24 idx_676 idx_130 idx_677 idx_130 idx_678 idx_277 idx_679 idx_24
+164	  idx_43 idx_682 idx_7 idx_683 idx_684 idx_16 idx_56
+165	  idx_130 idx_168 idx_53 idx_210 idx_7 idx_18 idx_73 idx_18 idx_35 idx_43 idx_682 idx_7 idx_683 idx_684 idx_16 idx_56 idx_18 idx_22 idx_73 idx_239 idx_18 idx_89 idx_25 idx_685 idx_257 idx_3 idx_407 idx_36 idx_56
+166	  idx_18 idx_29 idx_259 idx_187 idx_56
+167	  idx_183 idx_673 idx_80 idx_69 idx_688 idx_413 idx_449 idx_689 idx_690 idx_7 idx_691 idx_43 idx_692 idx_407 idx_187 idx_22 idx_693 idx_259
+168	  idx_18 idx_18 idx_80 idx_344 idx_84 idx_7 idx_3 idx_694 idx_18 idx_21 idx_3 idx_18 idx_7 idx_56 idx_18
+169	  idx_152 idx_673 idx_78 idx_43 idx_674 idx_7 idx_675 idx_24 idx_676 idx_130 idx_677 idx_130 idx_678 idx_277 idx_679 idx_24 idx_18
+170	  idx_152 idx_673 idx_78 idx_43 idx_674 idx_7 idx_675 idx_24 idx_676 idx_130 idx_677 idx_130 idx_678 idx_277 idx_679 idx_24
+171	  idx_183 idx_673 idx_18 idx_18 idx_271 idx_64 idx_3 idx_18 idx_695 idx_7 idx_395 idx_18
+172	  idx_3 idx_183 idx_696 idx_697 idx_698 idx_16 idx_3 idx_18
+173	  idx_3 idx_203 idx_699 idx_701 idx_36 idx_3 idx_392 idx_702 idx_203 idx_703 idx_704 idx_199 idx_705
+174	  idx_3 idx_203 idx_699 idx_701 idx_36 idx_3 idx_392 idx_702 idx_203 idx_703 idx_704 idx_199 idx_705 idx_706 idx_24 idx_18 idx_707 idx_16 idx_53 idx_708 idx_709 idx_638 idx_710 idx_36 idx_43 idx_711 idx_22 idx_189 idx_712 idx_18 idx_21 idx_3 idx_702 idx_707 idx_18 idx_18 idx_24 idx_18
+175	  idx_693 idx_259 idx_233 idx_714 idx_21 idx_716
+176	  idx_183 idx_673 idx_80 idx_69 idx_688 idx_413 idx_449 idx_689 idx_690 idx_7 idx_691 idx_43 idx_692 idx_407 idx_187 idx_22 idx_693 idx_259 idx_233 idx_714 idx_21 idx_716
+177	  idx_3 idx_719 idx_7 idx_720 idx_721 idx_168 idx_706 idx_31 idx_189 idx_721 idx_168 idx_3 idx_18 idx_18 idx_7 idx_3 idx_18 idx_722 idx_22 idx_3 idx_481 idx_18 idx_723 idx_18 idx_18
+178	  idx_728 idx_729 idx_730 idx_24 idx_18 idx_16 idx_731 idx_18
+179	  idx_728 idx_729 idx_730 idx_24 idx_3 idx_573 idx_7 idx_18 idx_16 idx_18 idx_18 idx_731
+180	  idx_43 idx_682 idx_7 idx_683 idx_684 idx_16 idx_56 idx_18
+181	  idx_43 idx_682 idx_7 idx_683 idx_684 idx_16 idx_56
+182	  idx_3 idx_737 idx_75 idx_738 idx_18 idx_18 idx_187 idx_739 idx_18
+183	  idx_73 idx_737 idx_18 idx_75 idx_738 idx_18 idx_187 idx_739
+184	  idx_327 idx_741 idx_737 idx_35 idx_56 idx_742 idx_743 idx_3
+185	  idx_18 idx_31 idx_327 idx_741 idx_737 idx_35 idx_56 idx_742 idx_743 idx_3
+186	  idx_73 idx_744 idx_745 idx_7 idx_56 idx_746 idx_35
+187	  idx_79 idx_747 idx_24 idx_748 idx_286
+188	  idx_18 idx_18 idx_416 idx_79 idx_747 idx_24 idx_748 idx_286 idx_749 idx_265 idx_16 idx_3 idx_18
+189	  idx_73 idx_80 idx_351 idx_609 idx_170 idx_478
+190	  idx_309 idx_73 idx_40 idx_470 idx_168 idx_351 idx_609 idx_170 idx_478
+191	  idx_130 idx_753 idx_130 idx_307 idx_754
+192	  idx_18 idx_18 idx_18 idx_43 idx_682 idx_7 idx_18 idx_18 idx_18 idx_756 idx_40
+193	  idx_206 idx_18 idx_757 idx_129 idx_758
+194	  idx_73 idx_195 idx_18 idx_21 idx_18 idx_531
+195	  idx_43 idx_18 idx_18 idx_18 idx_18 idx_18 idx_603 idx_18 idx_18 idx_341 idx_39 idx_18 idx_326 idx_16 idx_18 idx_18 idx_16
+196	  idx_3 idx_328 idx_349 idx_763 idx_18 idx_760 idx_764 idx_130 idx_43 idx_18 idx_749 idx_84 idx_7 idx_41 idx_18 idx_7 idx_765 idx_18 idx_16 idx_294 idx_18 idx_56 idx_18 idx_766 idx_31 idx_346 idx_18 idx_236 idx_7 idx_767 idx_18 idx_40 idx_173 idx_199 idx_18 idx_18
+197	  idx_3 idx_760 idx_761 idx_773 idx_36 idx_3 idx_351 idx_761 idx_165 idx_774 idx_775 idx_373
+198	  idx_3 idx_760 idx_761 idx_773 idx_36 idx_3 idx_351 idx_761 idx_776 idx_774 idx_775 idx_373
+199	  idx_139 idx_754 idx_444 idx_313 idx_18
+200	  idx_206 idx_781 idx_3 idx_76 idx_168 idx_782
+201	  idx_43 idx_760 idx_779 idx_407 idx_781 idx_18 idx_24
+202	  idx_73 idx_18 idx_56 idx_311 idx_96
+203	  idx_760 idx_764 idx_40 idx_686 idx_18 idx_213 idx_786
+204	  idx_274 idx_56 idx_18 idx_24 idx_18 idx_48 idx_51 idx_788
+205	  idx_206 idx_90 idx_591 idx_187 idx_746 idx_35 idx_43 idx_790 idx_7 idx_18 idx_791 idx_24
+206	  idx_792 idx_31 idx_124 idx_18 idx_199 idx_18 idx_21 idx_18
+207	  idx_73 idx_195 idx_80 idx_18 idx_168 idx_254 idx_793 idx_18 idx_168 idx_18 idx_794 idx_195 idx_25 idx_18 idx_199 idx_53
+208	  idx_797 idx_798 idx_799 idx_800 idx_522 idx_801 idx_7 idx_802 idx_803 idx_804 idx_805 idx_799 idx_530 idx_806 idx_799 idx_24 idx_807 idx_18 idx_18 idx_18
+209	  idx_797 idx_798 idx_799 idx_800 idx_522 idx_801 idx_7 idx_802 idx_803 idx_804 idx_805 idx_799 idx_530 idx_806 idx_799 idx_24 idx_807
+210	  idx_3 idx_811 idx_18 idx_18 idx_18 idx_812 idx_18 idx_18 idx_21 idx_18 idx_168 idx_43 idx_18 idx_36 idx_813 idx_33 idx_18 idx_18 idx_7 idx_3 idx_18 idx_18
+211	  idx_813 idx_31 idx_18 idx_21 idx_344 idx_43 idx_118 idx_18 idx_187 idx_184 idx_24 idx_814 idx_18 idx_16 idx_3 idx_18 idx_337 idx_815 idx_18 idx_16 idx_265 idx_814 idx_24 idx_184 idx_18 idx_816 idx_189 idx_18 idx_21 idx_3 idx_817 idx_7 idx_43 idx_18 idx_468
+212	  idx_3 idx_18 idx_18 idx_576 idx_18 idx_7 idx_3 idx_819 idx_391
+213	  idx_18 idx_18 idx_47 idx_21 idx_18
+214	  idx_345 idx_3 idx_822 idx_286 idx_20
+215	  idx_345 idx_206 idx_18 idx_18 idx_21 idx_823 idx_16
+216	  idx_825 idx_826 idx_827 idx_828 idx_333 idx_3 idx_829 idx_397 idx_24 idx_617
+217	  idx_435 idx_18 idx_830 idx_825 idx_826 idx_827 idx_189 idx_828 idx_333 idx_3 idx_829 idx_397 idx_24 idx_617
+218	  idx_84 idx_7 idx_41 idx_777 idx_18 idx_18 idx_18 idx_18 idx_16
+219	  idx_833 idx_90 idx_43 idx_18 idx_18 idx_831 idx_168 idx_166 idx_834
+220	  idx_134 idx_831 idx_31 idx_835 idx_25 idx_18 idx_336 idx_24 idx_18 idx_137 idx_18 idx_24 idx_18
+221	  idx_3 idx_839 idx_841 idx_21 idx_836 idx_134 idx_823 idx_838 idx_21 idx_842 idx_25 idx_843
+222	  idx_3 idx_839 idx_841 idx_21 idx_836 idx_134 idx_823 idx_838 idx_21 idx_842 idx_25 idx_843
+223	  idx_3 idx_13 idx_18 idx_7 idx_844 idx_16 idx_833 idx_40 idx_36 idx_3 idx_155 idx_846
+224	  idx_96 idx_328 idx_529 idx_18 idx_3 idx_18 idx_848 idx_179 idx_847 idx_18 idx_18 idx_16 idx_3 idx_519 idx_7
+225	  idx_3 idx_811 idx_167 idx_18 idx_16 idx_851
+226	  idx_16 idx_18 idx_852 idx_853 idx_854 idx_18 idx_855 idx_130 idx_856
+227	  idx_3 idx_857 idx_858 idx_859 idx_7 idx_193 idx_18 idx_16 idx_833 idx_31
+228	  idx_3 idx_126 idx_860 idx_7 idx_833 idx_31
+229	  idx_347 idx_21 idx_18 idx_18 idx_18 idx_176 idx_168 idx_861 idx_24 idx_486 idx_40 idx_139
+230	  idx_864 idx_40 idx_628 idx_22 idx_865 idx_866 idx_862 idx_16 idx_833 idx_187 idx_863 idx_18 idx_24 idx_18
+231	  idx_25 idx_18 idx_864 idx_167 idx_767 idx_18 idx_193 idx_18 idx_18 idx_18 idx_868 idx_24 idx_869 idx_18 idx_199 idx_870 idx_867 idx_18 idx_21 idx_426 idx_858 idx_18
+232	  idx_605 idx_873 idx_874 idx_875 idx_16 idx_3 idx_876 idx_877 idx_878 idx_7 idx_400 idx_523
+233	  idx_43 idx_18 idx_18 idx_39 idx_605 idx_873 idx_874 idx_18 idx_16 idx_3 idx_876 idx_877 idx_878 idx_7 idx_400 idx_523
+234	  idx_18 idx_130 idx_43 idx_463 idx_24 idx_18 idx_130 idx_307
+235	  idx_18 idx_346 idx_374 idx_885 idx_28 idx_29 idx_886 idx_168 idx_53 idx_887 idx_24 idx_864 idx_20 idx_888 idx_889 idx_168
+236	  idx_346 idx_374 idx_885 idx_28 idx_29 idx_886 idx_168 idx_53 idx_887 idx_24 idx_864 idx_20 idx_888 idx_889 idx_168
+237	  idx_18 idx_7 idx_3 idx_887 idx_35 idx_814
+238	  idx_877 idx_878 idx_7 idx_400 idx_523
+239	  idx_35 idx_723 idx_893 idx_894 idx_872 idx_477 idx_16 idx_374
+240	  idx_35 idx_723 idx_893 idx_894 idx_872 idx_477 idx_16 idx_374
+241	  idx_18 idx_25 idx_895 idx_797 idx_24 idx_374 idx_896 idx_18
+242	  idx_37 idx_381 idx_43 idx_18 idx_422 idx_801 idx_882 idx_16 idx_400 idx_523
+243	  idx_73 idx_66 idx_368 idx_18 idx_74 idx_75 idx_199 idx_344 idx_612 idx_18 idx_322
+244	  idx_905 idx_906 idx_907 idx_908 idx_909 idx_910
+245	  idx_905 idx_906 idx_907 idx_908 idx_909 idx_910
+246	  idx_309 idx_7 idx_3 idx_913 idx_73 idx_914 idx_56 idx_915 idx_257 idx_56
+247	  idx_3 idx_913 idx_73 idx_914 idx_56 idx_915 idx_257 idx_56
+248	  idx_918 idx_919 idx_257 idx_3 idx_920 idx_199
+249	  idx_918 idx_919 idx_257 idx_920 idx_199
+250	  idx_43 idx_661 idx_662 idx_16 idx_922 idx_18 idx_18 idx_18
+251	  idx_309 idx_3 idx_18 idx_213 idx_923 idx_18 idx_35 idx_56
+252	  idx_37 idx_926 idx_206 idx_20 idx_927 idx_21 idx_784 idx_277 idx_643 idx_21
+253	  idx_37 idx_928 idx_3 idx_441 idx_346 idx_206 idx_20 idx_927 idx_21 idx_784 idx_277 idx_643 idx_21
+254	  idx_37 idx_928 idx_3 idx_18 idx_7 idx_549 idx_18
+255	  idx_374 idx_18 idx_130 idx_390 idx_90
+256	  idx_931 idx_221 idx_930 idx_16 idx_3 idx_18
+257	  idx_931 idx_827 idx_40 idx_504 idx_21 idx_18
+258	  idx_25 idx_3 idx_18 idx_16 idx_3 idx_493 idx_933
+259	  idx_18 idx_20 idx_656 idx_25 idx_3 idx_934 idx_16 idx_3 idx_493 idx_933 idx_846 idx_130 idx_43 idx_935
+260	  idx_818 idx_18 idx_7 idx_134 idx_270 idx_40 idx_7 idx_18 idx_454 idx_509
+261	  idx_18 idx_937 idx_18 idx_20 idx_656 idx_25 idx_3 idx_934 idx_16 idx_3 idx_493 idx_933 idx_846 idx_130 idx_43 idx_935
+262	  idx_287 idx_18 idx_939 idx_18 idx_18 idx_18 idx_18 idx_18 idx_7 idx_43 idx_509 idx_940 idx_939 idx_16
+263	  idx_18 idx_18 idx_18 idx_18 idx_24
+264	  idx_573 idx_136 idx_18 idx_7 idx_18 idx_18 idx_24 idx_937 idx_22 idx_942 idx_16 idx_576 idx_18 idx_266 idx_189 idx_18 idx_3 idx_18 idx_187 idx_929 idx_21 idx_18 idx_134 idx_18 idx_130 idx_18 idx_199
+265	  idx_929 idx_18 idx_18 idx_18 idx_21 idx_943 idx_24 idx_944
+266	  idx_374 idx_18 idx_168 idx_895 idx_18
+267	  idx_37 idx_20 idx_947 idx_16 idx_890 idx_126
+268	  idx_945 idx_949 idx_654 idx_801 idx_39 idx_522 idx_7
+269	  idx_950 idx_945 idx_20 idx_470 idx_16 idx_18
+270	  idx_18 idx_18 idx_722 idx_18 idx_18 idx_18 idx_307 idx_938 idx_18 idx_951 idx_89 idx_3 idx_529 idx_18 idx_18 idx_18 idx_18 idx_763 idx_18 idx_18 idx_18 idx_24 idx_228 idx_18 idx_722 idx_3 idx_18 idx_18 idx_952 idx_322 idx_562 idx_7 idx_3 idx_18 idx_24 idx_18 idx_18
+271	  idx_3 idx_18 idx_18 idx_7 idx_3 idx_954
+272	  idx_957 idx_21 idx_3 idx_441 idx_7 idx_958 idx_24 idx_959
+273	  idx_957 idx_21 idx_3 idx_441 idx_7 idx_958 idx_24 idx_959
+274	  idx_37 idx_18 idx_3 idx_18 idx_7 idx_3 idx_960 idx_7 idx_193 idx_168 idx_18
+275	  idx_3 idx_18 idx_922 idx_31 idx_517 idx_7
+276	  idx_3 idx_815 idx_20 idx_18 idx_25 idx_18 idx_18
+277	  idx_37 idx_963 idx_966 idx_734 idx_18 idx_116 idx_43 idx_18 idx_18 idx_16
+278	  idx_18 idx_967 idx_40 idx_968 idx_36 idx_18 idx_199
+279	  idx_18 idx_40 idx_969 idx_21 idx_970 idx_43
+280	  idx_18 idx_972 idx_48 idx_973 idx_515 idx_974 idx_975 idx_976
+281	  idx_18 idx_584 idx_21 idx_3 idx_977 idx_130 idx_18 idx_978 idx_979 idx_980
+282	  idx_3 idx_981 idx_31 idx_634 idx_35 idx_3
+283	  idx_21 idx_18 idx_18 idx_36 idx_18
+284	  idx_982 idx_978 idx_983 idx_477 idx_16
+285	  idx_982 idx_978 idx_983 idx_20 idx_984 idx_985 idx_16 idx_986 idx_16
+286	  idx_3 idx_987 idx_7 idx_988 idx_989 idx_952 idx_991 idx_16
+287	  idx_996 idx_654 idx_31 idx_3 idx_992 idx_7 idx_3 idx_993 idx_994 idx_7 idx_995 idx_24
+288	  idx_982 idx_978 idx_983 idx_1000 idx_21 idx_43 idx_678 idx_998 idx_37 idx_999 idx_39 idx_18 idx_35 idx_3 idx_18 idx_7 idx_3 idx_1001 idx_16
+289	  idx_134 idx_1005 idx_1006 idx_24 idx_308
+290	  idx_134 idx_1005 idx_1006 idx_24 idx_308 idx_1007 idx_168 idx_3 idx_153 idx_1008 idx_16 idx_18 idx_930 idx_869 idx_18 idx_25 idx_18 idx_36 idx_3 idx_354
+291	  idx_139 idx_1012 idx_354 idx_16 idx_3 idx_156
+292	  idx_139 idx_1012 idx_18 idx_1006 idx_18
+293	  idx_3 idx_139 idx_207 idx_1014 idx_40 idx_3 idx_1015 idx_1016 idx_1017 idx_1018 idx_24
+294	  idx_1015 idx_1016 idx_1017 idx_1018 idx_24
+295	  idx_3 idx_18 idx_1021 idx_31 idx_3 idx_155 idx_1019 idx_1020 idx_573 idx_7
+296	  idx_1022 idx_1014 idx_80 idx_1023 idx_29 idx_1024 idx_25 idx_3 idx_1026 idx_1027 idx_1028 idx_307 idx_1029
+297	  idx_3 idx_1026 idx_1027 idx_1028 idx_307 idx_1029
+298	  idx_206 idx_1032 idx_43 idx_326 idx_22 idx_31 idx_16 idx_43 idx_1033 idx_1034 idx_170 idx_3 idx_1035 idx_7 idx_3
+299	  idx_206 idx_1032 idx_43 idx_326 idx_22 idx_31 idx_16 idx_43 idx_1033 idx_1034 idx_170 idx_3 idx_1035 idx_7 idx_3
+300	  idx_1028 idx_43 idx_1026 idx_1027 idx_1028 idx_307 idx_1029 idx_142 idx_31 idx_307 idx_782 idx_913 idx_21 idx_1036 idx_43
+301	  idx_3 idx_790 idx_7 idx_43 idx_1022 idx_18 idx_162 idx_1024 idx_25 idx_43 idx_1026 idx_1027 idx_1028 idx_307 idx_1029 idx_18 idx_117
+302	  idx_307 idx_1039 idx_1040 idx_48 idx_1041 idx_307 idx_1042 idx_1043 idx_1044 idx_36 idx_18
+303	  idx_166 idx_1047 idx_31 idx_1045 idx_187 idx_3 idx_209 idx_7 idx_439
+304	  idx_43 idx_1052 idx_1053 idx_43 idx_18 idx_199 idx_43 idx_18
+305	  idx_43 idx_1052 idx_1053 idx_43 idx_18 idx_199 idx_43
+306	  idx_43 idx_41 idx_18 idx_968 idx_36 idx_43 idx_1057 idx_1058 idx_24 idx_292 idx_1059 idx_968 idx_36 idx_18
+307	  idx_43 idx_18 idx_1052 idx_968 idx_36 idx_43 idx_1057 idx_1058 idx_24 idx_292 idx_1059 idx_968 idx_36 idx_18 idx_18 idx_40 idx_1060 idx_3 idx_819 idx_1054 idx_1055
+308	  idx_139 idx_1061 idx_271 idx_18 idx_21 idx_18 idx_296 idx_266 idx_73 idx_48 idx_527 idx_187 idx_89 idx_21 idx_1062 idx_373 idx_199 idx_18 idx_598 idx_16
+309	  idx_3 idx_18 idx_18 idx_31 idx_3 idx_1063 idx_210 idx_7 idx_18
+310	  idx_1064 idx_31 idx_18 idx_206 idx_187 idx_1066 idx_18 idx_1067 idx_213 idx_1068 idx_18 idx_199
+311	  idx_18 idx_18 idx_18 idx_199 idx_643
+312	  idx_1070 idx_18 idx_20 idx_43 idx_18
+313	  idx_1072 idx_294 idx_80 idx_18 idx_3 idx_1073 idx_507 idx_7 idx_3
+314	  idx_18 idx_266 idx_206 idx_18 idx_315 idx_556 idx_16 idx_3
+315	  idx_374 idx_659 idx_7 idx_312 idx_20 idx_339 idx_130 idx_364 idx_1076 idx_18 idx_18
+316	  idx_1072 idx_18 idx_18 idx_130 idx_3 idx_1077 idx_18 idx_1078 idx_18 idx_963 idx_368 idx_51 idx_18 idx_16 idx_3 idx_18 idx_7 idx_3 idx_18 idx_7 idx_265
+317	  idx_3 idx_1079 idx_7 idx_349 idx_7 idx_1082 idx_24 idx_1083
+318	  idx_16 idx_18 idx_1072 idx_18 idx_3 idx_1079 idx_7 idx_349 idx_7 idx_1082 idx_24 idx_1083
+319	  idx_3 idx_18 idx_168 idx_3 idx_18 idx_18 idx_18 idx_18 idx_374 idx_1084 idx_16
+320	  idx_18 idx_43 idx_18 idx_35 idx_3 idx_18 idx_7
+321	  idx_18 idx_346 idx_18 idx_1085 idx_870 idx_35 idx_69 idx_1086 idx_18 idx_7 idx_3 idx_18 idx_357
+322	  idx_322 idx_1088 idx_709 idx_40 idx_1087 idx_16
+323	  idx_25 idx_3 idx_18 idx_3 idx_1089 idx_28 idx_1090 idx_43 idx_400 idx_844 idx_244
+324	  idx_1093 idx_90 idx_29 idx_1091 idx_21 idx_1092 idx_7
+325	  idx_466 idx_1094 idx_7 idx_1095 idx_10 idx_1095 idx_24
+326	  idx_43 idx_1098 idx_7 idx_1099 idx_654 idx_1100
+327	  idx_1098 idx_7 idx_1099 idx_654 idx_1100
+328	  idx_3 idx_1105 idx_1106 idx_16 idx_3 idx_378 idx_7
+329	  idx_1105 idx_1106 idx_16 idx_3 idx_378 idx_7
+330	  idx_307 idx_1107 idx_16 idx_18 idx_400 idx_18
+331	  idx_43 idx_1108 idx_18 idx_18 idx_18 idx_36 idx_18
+332	  idx_18 idx_1110 idx_18 idx_1110 idx_18 idx_1110 idx_18 idx_1110 idx_18 idx_1111 idx_18 idx_1111 idx_18 idx_1111 idx_18 idx_1112 idx_1113 idx_7
+333	  idx_1118 idx_7 idx_1119 idx_18 idx_18 idx_18 idx_18 idx_18 idx_658 idx_18 idx_25 idx_18 idx_18 idx_18 idx_18 idx_18 idx_3 idx_392 idx_940 idx_24 idx_3 idx_791 idx_3 idx_1120 idx_555 idx_1121 idx_1122 idx_473 idx_18 idx_1123 idx_1124 idx_168 idx_3 idx_1125 idx_18 idx_18 idx_3 idx_18 idx_18 idx_3 idx_1120 idx_18 idx_1126 idx_1127
+334	  idx_1124 idx_168 idx_3 idx_1125 idx_3 idx_1128 idx_24
+335	  idx_1111 idx_31 idx_934 idx_187 idx_1129 idx_18 idx_206 idx_31 idx_189 idx_3 idx_208 idx_7 idx_18 idx_16 idx_18 idx_18 idx_18 idx_18 idx_18 idx_18 idx_18 idx_18 idx_1130 idx_3 idx_18 idx_18 idx_18 idx_18 idx_18 idx_18 idx_18 idx_18 idx_18 idx_18 idx_3 idx_18 idx_18 idx_18 idx_3 idx_10 idx_18 idx_18 idx_24 idx_3 idx_18 idx_206 idx_31 idx_189 idx_3 idx_208 idx_7 idx_43 idx_18 idx_18 idx_43 idx_18 idx_18 idx_43 idx_18 idx_307 idx_18 idx_43 idx_18 idx_43 idx_18 idx_307 idx_18 idx_24 idx_1112 idx_1113 idx_7 idx_18 idx_1114 idx_827 idx_168 idx_706 idx_208 idx_1116 idx_43 idx_1117 idx_36 idx_1118 idx_7 idx_1119 idx_43 idx_1117 idx_36 idx_18 idx_7 idx_43 idx_658 idx_18 idx_43 idx_1117 idx_16 idx_392 idx_940 idx_24 idx_3 idx_791 idx_43 idx_1117 idx_16 idx_1121 idx_1122 idx_43 idx_1117 idx_16 idx_1124 idx_168 idx_3 idx_1125 idx_3 idx_1019 idx_1117 idx_7 idx_3 idx_1128 idx_24 idx_43 idx_1117 idx_35 idx_1126 idx_1127 idx_18 idx_864 idx_90 idx_189 idx_29 idx_43 idx_519 idx_7 idx_1111 idx_978 idx_1130 idx_43 idx_18 idx_7 idx_18 idx_32 idx_1110 idx_307 idx_1131 idx_7 idx_1110 idx_24 idx_18 idx_130 idx_43 idx_18 idx_653 idx_7 idx_3 idx_18 idx_519
+336	  idx_43 idx_1136 idx_1137 idx_1138 idx_885 idx_257 idx_1139 idx_187 idx_1140
+337	  idx_43 idx_1136 idx_1137 idx_1138 idx_885 idx_257 idx_1139 idx_187 idx_1140
+338	  idx_206 idx_31 idx_3 idx_153 idx_1144 idx_7 idx_395
+339	  idx_3 idx_1141 idx_1142 idx_31 idx_3 idx_153 idx_1144 idx_7 idx_395
+340	  idx_3 idx_392 idx_702 idx_203 idx_18 idx_1145 idx_36 idx_3 idx_708 idx_711 idx_18 idx_1146 idx_21 idx_326 idx_199 idx_21
+341	  idx_307 idx_754 idx_783 idx_1142 idx_31 idx_244 idx_43
+342	  idx_1149 idx_478 idx_268 idx_187 idx_3 idx_454 idx_1150 idx_1151 idx_35 idx_134
+343	  idx_1149 idx_478 idx_268 idx_187 idx_3 idx_454 idx_1151 idx_35 idx_134
+344	  idx_73 idx_80 idx_3 idx_1159 idx_21 idx_1160 idx_75 idx_227 idx_1161 idx_1162 idx_170
+345	  idx_80 idx_3 idx_1159 idx_21 idx_1160 idx_75 idx_227 idx_1161 idx_1162 idx_170
+346	  idx_43 idx_1164 idx_816 idx_1167 idx_39 idx_3 idx_1168 idx_1169 idx_168 idx_134
+347	  idx_1167 idx_39 idx_3 idx_1168 idx_1169 idx_168 idx_134
+348	  idx_206 idx_816 idx_1173 idx_80 idx_501 idx_1174 idx_206 idx_816 idx_1173 idx_51 idx_1175 idx_21 idx_193 idx_24 idx_1176 idx_7
+349	  idx_501 idx_1174 idx_1175 idx_21 idx_18 idx_24 idx_1176 idx_7 idx_227
+350	  idx_18 idx_18 idx_18 idx_18 idx_18 idx_18 idx_18 idx_18 idx_18 idx_18 idx_18 idx_18 idx_24
+351	  idx_25 idx_685 idx_683 idx_722 idx_18
+352	  idx_18 idx_18 idx_80 idx_43 idx_737 idx_1181 idx_1154 idx_16 idx_21
+353	  idx_69 idx_7 idx_3 idx_1182 idx_18 idx_667 idx_1183 idx_36 idx_3
+354	  idx_73 idx_40 idx_35 idx_3 idx_18 idx_24 idx_18
+355	  idx_900 idx_573 idx_56 idx_1186 idx_21 idx_1187 idx_24 idx_1185
+356	  idx_900 idx_573 idx_56 idx_1186 idx_21 idx_1187 idx_24 idx_1185
+357	  idx_3 idx_976 idx_944 idx_203 idx_18 idx_1146 idx_18
+358	  idx_43 idx_1190 idx_199 idx_1191 idx_43 idx_1192
+359	  idx_18 idx_18 idx_18 idx_909 idx_18 idx_18
+360	  idx_25 idx_43 idx_1193 idx_18 idx_1194 idx_24 idx_137
+361	  idx_1195 idx_1196 idx_20 idx_368 idx_43 idx_38 idx_7
+362	  idx_1195 idx_1196 idx_2 idx_1197 idx_3 idx_1198 idx_1199
+363	  idx_1196 idx_20 idx_1200 idx_16 idx_570
+364	  idx_16 idx_18 idx_1195 idx_1196 idx_1201 idx_3 idx_953
+365	  idx_3 idx_1202 idx_968 idx_25 idx_1196 idx_31 idx_1203 idx_130 idx_3 idx_13 idx_18
+366	  idx_1195 idx_1196 idx_1000 idx_24 idx_477 idx_16 idx_3 idx_1204
+367	  idx_1195 idx_1196 idx_18 idx_24 idx_18 idx_3 idx_18 idx_16
+368	  idx_1195 idx_1196 idx_20 idx_43 idx_38 idx_39 idx_3 idx_522 idx_7 idx_18 idx_187 idx_714 idx_18
+369	  idx_43 idx_38 idx_7 idx_18 idx_39 idx_3 idx_954 idx_801 idx_16
+370	  idx_1196 idx_20 idx_968 idx_43 idx_1207 idx_25
+371	  idx_408 idx_1196 idx_20 idx_470 idx_16 idx_18 idx_18 idx_24 idx_20 idx_1200 idx_16 idx_3 idx_570 idx_883
+372	  idx_1196 idx_20 idx_968 idx_43 idx_1207 idx_25 idx_1209 idx_16
+373	  idx_408 idx_1196 idx_20 idx_968 idx_43 idx_1207 idx_25 idx_1209 idx_16
+374	  idx_408 idx_27 idx_20 idx_43 idx_38 idx_39 idx_3 idx_522 idx_7
+375	  idx_408 idx_27 idx_20 idx_43 idx_370 idx_7 idx_3 idx_954 idx_1211 idx_1212 idx_35 idx_570
+376	  idx_408 idx_18 idx_209 idx_31 idx_969 idx_21 idx_1214 idx_3 idx_942 idx_7 idx_1215
+377	  idx_18 idx_18 idx_18 idx_13 idx_1216 idx_3 idx_1217 idx_7 idx_1213
+378	  idx_3 idx_1219 idx_79 idx_3 idx_1220 idx_7 idx_3 idx_1204 idx_1221 idx_7 idx_751 idx_1222 idx_1223 idx_3 idx_1204 idx_336 idx_24 idx_1224 idx_1225 idx_21 idx_3 idx_1219 idx_79 idx_56 idx_1226 idx_959
+379	  idx_1213 idx_654 idx_11 idx_346 idx_3 idx_1219 idx_79 idx_3 idx_1220 idx_7 idx_3 idx_1204 idx_1221 idx_7 idx_751 idx_1222 idx_1223 idx_3 idx_1204 idx_336 idx_24 idx_1224 idx_1225 idx_21 idx_3 idx_1219 idx_79 idx_56 idx_1226 idx_959
+380	  idx_18 idx_18 idx_1229 idx_18 idx_18 idx_1227 idx_346 idx_1213 idx_441 idx_18 idx_16 idx_1228
+381	  idx_1213 idx_1230 idx_14 idx_20 idx_1231 idx_16
+382	  idx_37 idx_20 idx_1233 idx_16 idx_3 idx_1234 idx_1235 idx_7 idx_1236 idx_464 idx_3 idx_1237 idx_7
+383	  idx_27 idx_18 idx_374 idx_1232 idx_39 idx_3 idx_522 idx_7 idx_30 idx_309 idx_37 idx_20 idx_1233 idx_16 idx_3 idx_1234 idx_1235 idx_7 idx_1236 idx_464 idx_3 idx_1237 idx_7
+384	  idx_18 idx_7 idx_585 idx_1238 idx_1239 idx_294 idx_51
+385	  idx_345 idx_864 idx_40 idx_166 idx_1239 idx_16
+386	  idx_408 idx_778 idx_1239 idx_88 idx_1150 idx_560
+387	  idx_345 idx_1241 idx_1239 idx_66 idx_368 idx_80
+388	  idx_3 idx_45 idx_18 idx_24 idx_18 idx_40 idx_3 idx_41 idx_810 idx_1242
+389	  idx_516 idx_346 idx_615 idx_1243 idx_40 idx_244 idx_18
+390	  idx_1244 idx_1239 idx_40 idx_930 idx_16 idx_1246 idx_24 idx_601
+391	  idx_408 idx_1239 idx_1247 idx_21 idx_3 idx_1204 idx_1131 idx_130
+392	  idx_139 idx_1239 idx_40 idx_585 idx_199
+393	  idx_345 idx_368 idx_265 idx_1239 idx_1248
+394	  idx_408 idx_1249 idx_40 idx_698 idx_571 idx_1250 idx_901 idx_21 idx_1251 idx_130 idx_677 idx_130
+395	  idx_408 idx_73 idx_40 idx_788 idx_161 idx_25 idx_56 idx_1252 idx_1253 idx_24 idx_43 idx_834 idx_1254 idx_1255 idx_346 idx_230 idx_43 idx_1256
+396	  idx_1257 idx_31 idx_43 idx_354 idx_24 idx_18 idx_16
+397	  idx_1257 idx_31 idx_21 idx_3 idx_873 idx_7 idx_3 idx_18
+398	  idx_119 idx_1177 idx_167 idx_1259 idx_33
+399	  idx_3 idx_976 idx_873 idx_24 idx_395
+400	  idx_1258 idx_31 idx_3 idx_18 idx_860 idx_7
+401	  idx_1258 idx_20 idx_43 idx_1086 idx_18 idx_7 idx_631 idx_16 idx_18 idx_24 idx_3 idx_18 idx_24 idx_509 idx_18 idx_40 idx_18
+402	  idx_1262 idx_31 idx_3 idx_866 idx_354 idx_7
+403	  idx_1263 idx_1264 idx_31 idx_3 idx_153 idx_1265 idx_1266 idx_16 idx_18
+404	  idx_3 idx_1271 idx_1268 idx_31 idx_3 idx_1269 idx_7 idx_3 idx_1270 idx_18
+405	  idx_3 idx_1273 idx_18 idx_3 idx_1275 idx_1276 idx_1277 idx_24 idx_3 idx_1278 idx_1279 idx_328 idx_1280 idx_18
+406	  idx_3 idx_1275 idx_1276 idx_1277 idx_24 idx_3 idx_1278 idx_1279 idx_328 idx_1280
+407	  idx_3 idx_1281 idx_1282 idx_31 idx_930 idx_35 idx_3 idx_18 idx_18 idx_743 idx_36 idx_3 idx_1269 idx_7 idx_3 idx_1281 idx_18 idx_24 idx_1283 idx_21 idx_3
+408	  idx_3 idx_1271 idx_1268 idx_20 idx_18 idx_25 idx_1284 idx_1285 idx_1286 idx_16 idx_3
+409	  idx_309 idx_1294 idx_1295 idx_1296 idx_1297 idx_18 idx_1287 idx_90 idx_18 idx_43 idx_18 idx_21 idx_18 idx_1289 idx_1290 idx_35 idx_1291 idx_1292 idx_757
+410	  idx_309 idx_1294 idx_1295 idx_1296 idx_1297
+411	  idx_3 idx_292 idx_1299 idx_16 idx_1262 idx_40 idx_3 idx_1300 idx_1301 idx_1262 idx_24 idx_3 idx_1302
+412	  idx_1300 idx_1301 idx_1262 idx_24 idx_1302
+413	  idx_408 idx_1262 idx_31 idx_3 idx_1303 idx_7
+414	  idx_408 idx_3 idx_1304 idx_1306 idx_3 idx_1305
+415	  idx_345 idx_3 idx_1307 idx_1308 idx_18 idx_21 idx_3 idx_1309 idx_7
+416	  idx_3 idx_1310 idx_7 idx_1311 idx_18 idx_31 idx_16 idx_3 idx_18
+417	  idx_3 idx_1270 idx_390 idx_697 idx_1309 idx_7 idx_3 idx_18 idx_1263
+418	  idx_16 idx_18 idx_1262 idx_712 idx_89 idx_134 idx_809 idx_130 idx_43 idx_512 idx_1313
+419	  idx_18 idx_367 idx_1008 idx_31 idx_3 idx_1314 idx_1008 idx_16
+420	  idx_1316 idx_20 idx_1317 idx_257 idx_534 idx_849 idx_1315 idx_33 idx_3
+421	  idx_1318 idx_20 idx_634 idx_16 idx_18 idx_560 idx_758 idx_21
+422	  idx_374 idx_18 idx_18 idx_965 idx_18 idx_389 idx_189 idx_28 idx_307 idx_1084 idx_16 idx_1102 idx_24 idx_18 idx_20 idx_43 idx_581
+423	  idx_292 idx_1319 idx_18 idx_23 idx_923 idx_21 idx_374 idx_18 idx_18 idx_24
+424	  idx_16 idx_3 idx_18 idx_43 idx_478 idx_1322 idx_199 idx_1320 idx_1321 idx_346 idx_1188 idx_90
+425	  idx_3 idx_1323 idx_682 idx_7 idx_3 idx_1324 idx_31 idx_968 idx_7 idx_7 idx_43 idx_18 idx_7 idx_18 idx_24 idx_18
+426	  idx_16 idx_18 idx_864 idx_20 idx_43 idx_635 idx_1326 idx_7
+427	  idx_345 idx_1327 idx_1328 idx_612 idx_1329 idx_170
+428	  idx_43 idx_18 idx_574 idx_756 idx_865 idx_3 idx_1322 idx_21 idx_1330
+429	  idx_212 idx_43 idx_18 idx_31 idx_18 idx_3 idx_53 idx_41 idx_816 idx_1332 idx_21 idx_43 idx_342
+430	  idx_345 idx_37 idx_20 idx_43 idx_1305
+431	  idx_408 idx_3 idx_1333 idx_1334 idx_7 idx_18 idx_3 idx_18 idx_20 idx_32 idx_33
+432	  idx_408 idx_480 idx_374 idx_18 idx_21 idx_1337 idx_168 idx_3 idx_18 idx_7 idx_18 idx_37 idx_20 idx_1335 idx_39 idx_1336
+433	  idx_37 idx_31 idx_1105 idx_1054 idx_187 idx_1338 idx_996
+434	  idx_37 idx_31 idx_1105 idx_1054 idx_187 idx_1338 idx_996
+435	  idx_37 idx_808 idx_236 idx_435 idx_1341 idx_35 idx_3 idx_1342 idx_7 idx_18 idx_22 idx_167 idx_1340 idx_25 idx_3 idx_1339 idx_7 idx_18 idx_1229 idx_18 idx_35
+436	  idx_36 idx_1345 idx_21 idx_18 idx_37 idx_577 idx_374 idx_1344 idx_211 idx_16
+437	  idx_345 idx_374 idx_1347 idx_1348 idx_36 idx_43 idx_18 idx_211 idx_16 idx_3 idx_18
+438	  idx_3 idx_992 idx_7 idx_3 idx_993 idx_994 idx_7 idx_995 idx_24
+439	  idx_3 idx_992 idx_7 idx_3 idx_993 idx_994 idx_7 idx_995 idx_24
+440	  idx_983 idx_18 idx_374 idx_41 idx_18 idx_35 idx_18 idx_24
+441	  idx_982 idx_978 idx_983 idx_577 idx_374 idx_1344 idx_211 idx_16 idx_18 idx_24 idx_952 idx_142 idx_16 idx_3 idx_1350 idx_7 idx_3 idx_18 idx_7 idx_3
+442	  idx_3 idx_1001 idx_794 idx_983 idx_21 idx_18 idx_374 idx_18 idx_130 idx_18 idx_18 idx_18 idx_18 idx_18 idx_24
+443	  idx_983 idx_20 idx_470 idx_16 idx_18 idx_1337 idx_21 idx_43 idx_1353
+444	  idx_18 idx_18 idx_18 idx_58 idx_244
+445	  idx_601 idx_1355 idx_18 idx_571 idx_18
+446	  idx_3 idx_1356 idx_653 idx_7 idx_1087 idx_1358 idx_31 idx_822
+447	  idx_3 idx_1356 idx_36 idx_7 idx_1087 idx_1358 idx_31 idx_822
+448	  idx_408 idx_1359 idx_31 idx_43 idx_207 idx_1360 idx_16 idx_1361 idx_1355 idx_24
+449	  idx_408 idx_1359 idx_31 idx_43 idx_207 idx_1360 idx_16 idx_1361 idx_1355 idx_24
+450	  idx_408 idx_1363 idx_58 idx_1364 idx_1358 idx_130 idx_43 idx_860
+451	  idx_408 idx_1363 idx_58 idx_1364 idx_1358 idx_130 idx_43 idx_860
+452	  idx_1365 idx_1358 idx_1366 idx_538 idx_16 idx_3 idx_18 idx_24 idx_18
+453	  idx_1365 idx_1358 idx_1366 idx_538 idx_16 idx_3 idx_18 idx_21 idx_18 idx_18
+454	  idx_3 idx_839 idx_7 idx_3 idx_488 idx_489 idx_7 idx_1355 idx_303 idx_21 idx_265 idx_1368 idx_7 idx_3 idx_1369 idx_1370 idx_1371 idx_822 idx_1373 idx_130
+455	  idx_3 idx_18 idx_583 idx_303 idx_21 idx_265 idx_18 idx_7 idx_3 idx_1369 idx_1370 idx_18 idx_822 idx_1373 idx_130 idx_18 idx_199 idx_18
+456	  idx_976 idx_1358 idx_20 idx_969 idx_96 idx_600 idx_24 idx_1375 idx_18 idx_24 idx_3 idx_18 idx_18 idx_24 idx_18
+457	  idx_976 idx_1358 idx_20 idx_3 idx_860 idx_969 idx_16 idx_3 idx_18 idx_722 idx_18 idx_18
+458	  idx_3 idx_1376 idx_7 idx_802 idx_707 idx_31 idx_941 idx_25 idx_18 idx_1358 idx_18 idx_168 idx_81
+459	  idx_802 idx_707 idx_40 idx_18 idx_257 idx_18 idx_1265 idx_1358
+460	  idx_3 idx_18 idx_980 idx_18 idx_1380 idx_18 idx_1381 idx_18 idx_187
+461	  idx_392 idx_1358 idx_20 idx_3 idx_860 idx_207 idx_96 idx_3 idx_493 idx_24 idx_976 idx_1382
+462	  idx_43 idx_1383 idx_31 idx_189 idx_1054 idx_130 idx_43 idx_1384
+463	  idx_1385 idx_40 idx_368 idx_342 idx_170
+464	  idx_3 idx_328 idx_349 idx_763 idx_18 idx_1388 idx_18 idx_3 idx_1383 idx_130 idx_43 idx_1386 idx_1387
+465	  idx_3 idx_1389 idx_857 idx_228 idx_18 idx_1116 idx_1390 idx_1391 idx_130 idx_1392 idx_1393 idx_24 idx_1394 idx_1395 idx_130 idx_677 idx_130 idx_858 idx_1396 idx_18 idx_24 idx_1395 idx_231 idx_16 idx_3 idx_1375 idx_142 idx_7 idx_134
+466	  idx_1390 idx_1391 idx_130 idx_1392 idx_1393 idx_24 idx_1394 idx_1395 idx_130 idx_677 idx_130 idx_858 idx_1396 idx_18 idx_24
+467	  idx_3 idx_597 idx_7 idx_754 idx_444 idx_31 idx_333 idx_18 idx_1398 idx_18 idx_18 idx_293 idx_1397 idx_21
+468	  idx_307 idx_754 idx_1389 idx_1399 idx_18 idx_31 idx_818 idx_1062 idx_690 idx_18 idx_18
+469	  idx_3 idx_41 idx_1400 idx_1401 idx_16 idx_3 idx_328 idx_40 idx_3 idx_18 idx_18 idx_24
+470	  idx_35 idx_1402 idx_1383 idx_444 idx_40 idx_1162 idx_170
+471	  idx_3 idx_41 idx_1403 idx_210 idx_346 idx_40 idx_439 idx_21 idx_91 idx_40 idx_3 idx_18 idx_3 idx_18 idx_24 idx_3 idx_178
+472	  idx_245 idx_346 idx_7 idx_678 idx_18 idx_199 idx_7 idx_3 idx_974 idx_7 idx_3 idx_18
+473	  idx_1014 idx_40 idx_969 idx_16 idx_391 idx_1405 idx_24 idx_119 idx_18 idx_18 idx_18 idx_24 idx_53
+474	  idx_1406 idx_18 idx_18 idx_187 idx_18 idx_7
+475	  idx_3 idx_450 idx_39 idx_22 idx_3 idx_1027 idx_1381 idx_31 idx_634 idx_464 idx_3 idx_18 idx_7 idx_3
+476	  idx_1407 idx_24 idx_1408 idx_18 idx_294 idx_18 idx_1411 idx_346 idx_326 idx_1412 idx_24
+477	  idx_1411 idx_346 idx_326 idx_1412 idx_24
+478	  idx_3 idx_18 idx_199 idx_25 idx_84 idx_199 idx_292
+479	  idx_408 idx_1411 idx_40 idx_58 idx_969 idx_16 idx_1413
+480	  idx_345 idx_3 idx_1414 idx_1415 idx_31 idx_368 idx_43 idx_1416
+481	  idx_408 idx_1415 idx_1417 idx_31 idx_1418 idx_21
+482	  idx_864 idx_40 idx_818 idx_18 idx_210 idx_7 idx_1416
+483	  idx_1375 idx_1422 idx_3 idx_1423 idx_18
+484	  idx_1420 idx_1415 idx_31 idx_717 idx_43 idx_18 idx_16 idx_1375 idx_1422 idx_3 idx_1423 idx_18 idx_24
+485	  idx_130 idx_222 idx_24 idx_1426 idx_1427 idx_244
+486	  idx_1419 idx_1424 idx_746 idx_130 idx_222 idx_24 idx_1426 idx_1427 idx_244
+487	  idx_1419 idx_80 idx_18 idx_24 idx_18 idx_1428 idx_18 idx_168 idx_43 idx_18 idx_18 idx_69 idx_189 idx_80 idx_18
+488	  idx_1429 idx_78 idx_678 idx_18 idx_244 idx_789
+489	  idx_345 idx_368 idx_265 idx_1419 idx_271 idx_16 idx_1430
+490	  idx_408 idx_1431 idx_31 idx_307 idx_672 idx_860 idx_7 idx_3 idx_509
+491	  idx_408 idx_3 idx_1432 idx_7 idx_1431 idx_40 idx_1317 idx_257 idx_292
+492	  idx_345 idx_1431 idx_31 idx_368 idx_765 idx_25
+493	  idx_1433 idx_860 idx_177 idx_16 idx_365 idx_333 idx_18
+494	  idx_1436 idx_1437 idx_24 idx_307 idx_1438
+495	  idx_1434 idx_1171 idx_7 idx_1431 idx_40 idx_1436 idx_1437 idx_24 idx_307 idx_1438
+496	  idx_3 idx_1439 idx_860 idx_31 idx_1087 idx_16 idx_1375
+497	  idx_3 idx_1440 idx_7 idx_1432 idx_1087 idx_624 idx_7 idx_365 idx_90 idx_29 idx_43 idx_1441 idx_19 idx_109 idx_18 idx_18 idx_16
+498	  idx_3 idx_13 idx_1123 idx_16 idx_1431 idx_20 idx_1231 idx_25 idx_18
+499	  idx_3 idx_18 idx_7 idx_1443 idx_1431 idx_434 idx_3 idx_672 idx_1431
+500	  idx_327 idx_43 idx_1444 idx_7 idx_683 idx_1445 idx_743 idx_43 idx_1446 idx_16 idx_3 idx_1447 idx_18 idx_43 idx_1448 idx_7 idx_683 idx_39 idx_3
+501	  idx_327 idx_43 idx_1444 idx_7 idx_683 idx_1445 idx_743 idx_43 idx_1446 idx_16 idx_3 idx_1447 idx_18 idx_43 idx_1448 idx_7 idx_683 idx_39 idx_3
+502	  idx_43 idx_1449 idx_1221 idx_48 idx_1451 idx_51 idx_1452 idx_25 idx_1453 idx_134 idx_1454 idx_24 idx_1194 idx_918
+503	  idx_43 idx_1449 idx_1221 idx_48 idx_51 idx_1452 idx_25 idx_1453 idx_134 idx_1454 idx_24 idx_1194 idx_918
+504	  idx_43 idx_1449 idx_1221 idx_48 idx_1451 idx_51 idx_1452 idx_25 idx_1453 idx_134 idx_1454 idx_24 idx_1194 idx_918
+505	  idx_221 idx_1221 idx_31 idx_137 idx_1458 idx_309 idx_7 idx_134 idx_342 idx_1454 idx_199 idx_342 idx_1194
+506	  idx_3 idx_18 idx_3 idx_18 idx_3 idx_18 idx_3 idx_1461 idx_199
+507	  idx_18 idx_24 idx_3 idx_1461 idx_199
+508	  idx_25 idx_535 idx_24 idx_1464 idx_918 idx_16 idx_3 idx_1242 idx_7 idx_3
+509	  idx_535 idx_24 idx_1464 idx_918 idx_16 idx_3 idx_1242 idx_7 idx_3
+510	  idx_43 idx_1052 idx_48 idx_51 idx_307 idx_643 idx_1465 idx_22 idx_31 idx_1466 idx_245 idx_43
+511	  idx_643 idx_1465 idx_22 idx_31 idx_1466 idx_245 idx_43
+512	  idx_84 idx_21 idx_292 idx_18 idx_33
+513	  idx_18 idx_18 idx_191 idx_18 idx_18 idx_18 idx_1068 idx_18 idx_24
+514	  idx_1471 idx_1472 idx_1472 idx_24 idx_1471 idx_1472 idx_18
+515	  idx_1471 idx_1472 idx_1472 idx_24 idx_3 idx_18 idx_18 idx_1471 idx_1472
+516	  idx_1474 idx_7 idx_724 idx_1468 idx_21 idx_1475 idx_24 idx_848
+517	  idx_1474 idx_7 idx_724 idx_1468 idx_21 idx_1475 idx_24 idx_848
+518	  idx_43 idx_18 idx_1384 idx_18 idx_16 idx_1246
+519	  idx_18 idx_18 idx_18 idx_24 idx_18
+520	  idx_206 idx_31 idx_765 idx_25 idx_18 idx_729 idx_18 idx_24 idx_25 idx_43 idx_334 idx_136
+521	  idx_223 idx_7 idx_3 idx_1477 idx_18 idx_18 idx_36 idx_3
+522	  idx_39 idx_3 idx_223 idx_7 idx_3
+523	  idx_1480 idx_1481 idx_76 idx_199 idx_77 idx_1482
+524	  idx_1480 idx_1481 idx_199 idx_76 idx_199 idx_77 idx_1482
+525	  idx_130 idx_864 idx_40 idx_119 idx_1487 idx_1488 idx_706 idx_1038 idx_7
+526	  idx_864 idx_40 idx_119 idx_1487 idx_1488 idx_706
+527	  idx_18 idx_3 idx_1448 idx_36 idx_3 idx_1478 idx_21 idx_3
+528	  idx_35 idx_3 idx_18 idx_24 idx_35
+529	  idx_408 idx_37 idx_20 idx_72 idx_18 idx_632 idx_307 idx_18
+530	  idx_345 idx_1072 idx_477 idx_16 idx_374 idx_18 idx_16 idx_1093 idx_35 idx_18 idx_18
+531	  idx_37 idx_20 idx_470 idx_39 idx_18 idx_18 idx_16 idx_18 idx_43 idx_18 idx_16 idx_3 idx_18 idx_7
+532	  idx_1072 idx_1490 idx_3 idx_1491 idx_168 idx_18 idx_18 idx_187 idx_3 idx_817 idx_7 idx_3 idx_18 idx_24 idx_18
+533	  idx_212 idx_1072 idx_28 idx_368 idx_18 idx_35 idx_3 idx_1492 idx_18 idx_7 idx_1494 idx_39 idx_43 idx_18 idx_37 idx_528 idx_368 idx_80 idx_1259 idx_374 idx_441 idx_7
+534	  idx_345 idx_43 idx_18 idx_79 idx_1075 idx_157 idx_1495 idx_24 idx_18 idx_18 idx_20
+535	  idx_1489 idx_1075 idx_441 idx_7 idx_18 idx_20 idx_1340 idx_25 idx_18 idx_3 idx_667 idx_7 idx_307 idx_18 idx_36 idx_43
+536	  idx_1096 idx_522 idx_1498 idx_7 idx_1499 idx_378
+537	  idx_1096 idx_522 idx_1498 idx_7 idx_1499
+538	  idx_37 idx_299 idx_968 idx_43 idx_570 idx_427 idx_7 idx_374 idx_657
+539	  idx_18 idx_1502 idx_20 idx_43 idx_1500 idx_24 idx_1066 idx_43 idx_277 idx_1501 idx_187 idx_3
+540	  idx_1502 idx_20 idx_18 idx_21 idx_3 idx_573 idx_7 idx_18 idx_1505 idx_16 idx_1275 idx_39 idx_307 idx_18 idx_18 idx_1199 idx_16 idx_400 idx_523 idx_354 idx_25 idx_3 idx_18 idx_18 idx_1503 idx_1504
+541	  idx_1508 idx_1502 idx_969 idx_1506 idx_1507
+542	  idx_408 idx_1502 idx_20 idx_307 idx_1509 idx_1475 idx_1510 idx_24 idx_43 idx_1086 idx_1047 idx_16 idx_3 idx_1511 idx_1512
+543	  idx_18 idx_1515 idx_7 idx_18 idx_24 idx_18 idx_1505 idx_31 idx_926 idx_21 idx_51 idx_84 idx_7 idx_3 idx_1514 idx_7 idx_3 idx_532 idx_1494
+544	  idx_408 idx_37 idx_20 idx_1516 idx_130 idx_43 idx_1517 idx_1518 idx_18
+545	  idx_3 idx_866 idx_7 idx_486 idx_31
+546	  idx_1519 idx_90 idx_43 idx_1520 idx_24 idx_18 idx_18 idx_831
+547	  idx_3 idx_354 idx_31 idx_1520 idx_24
+548	  idx_3 idx_208 idx_1519 idx_31 idx_1145 idx_36 idx_3 idx_18 idx_203
+549	  idx_309 idx_206 idx_31 idx_930 idx_818 idx_372 idx_1398 idx_975 idx_3 idx_183
+550	  idx_3 idx_1524 idx_346 idx_3 idx_1375 idx_142 idx_7 idx_1519 idx_1525 idx_35 idx_43 idx_1526 idx_818 idx_372 idx_1398 idx_975 idx_3 idx_183
+551	  idx_35 idx_3 idx_18 idx_695 idx_7
+552	  idx_18 idx_533 idx_1528 idx_18 idx_18
+553	  idx_1519 idx_1525 idx_35 idx_43 idx_1308 idx_372 idx_18 idx_818 idx_372 idx_1398 idx_975 idx_3 idx_183
+554	  idx_206 idx_1525 idx_35 idx_43 idx_1526 idx_818 idx_372 idx_1398 idx_975 idx_3 idx_183
+555	  idx_18 idx_1528 idx_18 idx_18 idx_538 idx_562 idx_7 idx_1531 idx_21 idx_3 idx_354 idx_16 idx_1131 idx_21 idx_710 idx_3 idx_1532 idx_24
+556	  idx_3 idx_1309 idx_18 idx_18 idx_1496 idx_31 idx_84 idx_7 idx_3 idx_119 idx_1533 idx_505 idx_1534 idx_16 idx_3 idx_1535
+557	  idx_408 idx_374 idx_1536 idx_21 idx_3 idx_18 idx_539 idx_18 idx_167 idx_18 idx_21 idx_3 idx_590 idx_18 idx_25 idx_3 idx_18
+558	  idx_345 idx_43 idx_18 idx_1496 idx_7 idx_537 idx_25 idx_18 idx_20 idx_18 idx_16 idx_18 idx_18 idx_24 idx_1066 idx_20 idx_87 idx_21 idx_1129 idx_18
+559	  idx_374 idx_380 idx_20 idx_43 idx_1539 idx_1540 idx_1541 idx_24 idx_1542 idx_24 idx_110 idx_130 idx_3 idx_1543 idx_1544
+560	  idx_374 idx_380 idx_20 idx_43 idx_1539 idx_1540 idx_1541 idx_24 idx_1542 idx_24 idx_110 idx_130 idx_3 idx_1543 idx_1544
+561	  idx_3 idx_466 idx_537 idx_1545 idx_31 idx_16
+562	  idx_3 idx_537 idx_31 idx_32 idx_33 idx_923 idx_187 idx_374 idx_957 idx_21 idx_3 idx_817 idx_7 idx_3 idx_539
+563	  idx_3 idx_537 idx_31 idx_32 idx_33 idx_466 idx_537 idx_187 idx_374 idx_957 idx_21 idx_3 idx_817 idx_7 idx_3 idx_539
+564	  idx_537 idx_2 idx_368 idx_948 idx_801
+565	  idx_37 idx_2 idx_368 idx_948 idx_43
+566	  idx_37 idx_1201 idx_43 idx_400 idx_1549 idx_7 idx_1550 idx_1551 idx_25 idx_1552 idx_43 idx_1553 idx_187 idx_1554 idx_1555 idx_1536 idx_16 idx_3 idx_1556 idx_1557 idx_43 idx_539 idx_1558 idx_24 idx_43 idx_1559 idx_187 idx_1554
+567	  idx_37 idx_1201 idx_43 idx_400 idx_1549 idx_7 idx_1550 idx_1551 idx_25 idx_1552 idx_43 idx_1553 idx_187 idx_1554 idx_1555 idx_1536 idx_16 idx_3 idx_1556 idx_1557 idx_43 idx_539 idx_1558 idx_24 idx_43 idx_1559 idx_187 idx_1554
+568	  idx_3 idx_1561 idx_7 idx_601 idx_1562 idx_167 idx_1563
+569	  idx_408 idx_3 idx_1566 idx_2 idx_368 idx_18 idx_16 idx_43 idx_18 idx_7 idx_18 idx_116 idx_3 idx_831 idx_18 idx_24 idx_1564 idx_1565 idx_18 idx_16 idx_3 idx_991 idx_7
+570	  idx_3 idx_1566 idx_18 idx_3 idx_1204 idx_1567 idx_118 idx_130 idx_3 idx_1568 idx_7 idx_601
+571	  idx_3 idx_293 idx_532 idx_1569 idx_7 idx_3 idx_1566 idx_31 idx_1570 idx_765 idx_25 idx_1571
+572	  idx_623 idx_189 idx_1572 idx_187 idx_1573 idx_1551 idx_1574 idx_16 idx_1575 idx_168 idx_1576 idx_1577 idx_21 idx_897 idx_1578
+573	  idx_3 idx_1561 idx_7 idx_601 idx_1562 idx_167 idx_1563 idx_1579 idx_96 idx_3 idx_493 idx_142 idx_7 idx_3 idx_874 idx_1580 idx_266 idx_3 idx_626 idx_90 idx_109 idx_29 idx_1581 idx_168 idx_1582
+574	  idx_702 idx_122 idx_368 idx_80 idx_307 idx_1029 idx_1589
+575	  idx_702 idx_122 idx_368 idx_80 idx_307 idx_1029 idx_1589
+576	  idx_391 idx_18 idx_18 idx_7 idx_22 idx_40 idx_36
+577	  idx_864 idx_40 idx_165 idx_18 idx_1593 idx_1591
+578	  idx_3 idx_1591 idx_860 idx_291 idx_18 idx_1594 idx_7 idx_18
+579	  idx_864 idx_40 idx_18 idx_1596 idx_1597 idx_199 idx_1595 idx_18 idx_16
+580	  idx_3 idx_1590 idx_579 idx_31 idx_686 idx_18 idx_649 idx_35 idx_3 idx_1358
+581	  idx_1585 idx_40 idx_189 idx_1054 idx_130 idx_18 idx_18 idx_199 idx_18
+582	  idx_1590 idx_232 idx_89 idx_18 idx_7 idx_3 idx_1591
+583	  idx_345 idx_1358 idx_24 idx_848 idx_66 idx_368 idx_80 idx_1599 idx_79
+584	  idx_1591 idx_31 idx_18 idx_36 idx_392 idx_18 idx_976 idx_1591 idx_24 idx_391
+585	  idx_3 idx_1600 idx_1087 idx_16 idx_1601 idx_31 idx_16 idx_1524 idx_1602 idx_130 idx_43 idx_751 idx_860 idx_25 idx_69 idx_1591
+586	  idx_1603 idx_18 idx_1603 idx_18 idx_24 idx_1603
+587	  idx_1604 idx_1605 idx_367 idx_1008 idx_24 idx_18 idx_367
+588	  idx_518 idx_3 idx_223 idx_7 idx_3 idx_1606 idx_24 idx_493 idx_874
+589	  idx_408 idx_1607 idx_980 idx_1608 idx_20 idx_470 idx_35 idx_382
+590	  idx_1607 idx_980 idx_1608 idx_520 idx_1609
+591	  idx_1607 idx_20 idx_43 idx_1443 idx_7 idx_18 idx_1610 idx_1611 idx_24
+592	  idx_622 idx_18 idx_1613 idx_21 idx_18 idx_3 idx_342 idx_1350 idx_31 idx_124 idx_714 idx_1612 idx_1613 idx_21
+593	  idx_18 idx_1617 idx_1618 idx_25 idx_1619 idx_24 idx_1620 idx_56
+594	  idx_327 idx_18 idx_18 idx_1617 idx_1618 idx_25 idx_1619 idx_24 idx_1620 idx_56
+595	  idx_206 idx_20 idx_18 idx_36 idx_3 idx_1621
+596	  idx_1624 idx_18 idx_18 idx_1625 idx_18 idx_18 idx_18 idx_1358 idx_18 idx_24
+597	  idx_3 idx_1622 idx_860 idx_20 idx_278 idx_16
+598	  idx_531 idx_1626 idx_1360 idx_7 idx_1622 idx_18 idx_498 idx_18 idx_31 idx_134 idx_573 idx_7 idx_18 idx_707 idx_18
+599	  idx_18 idx_31 idx_307 idx_1513 idx_7 idx_3 idx_1627 idx_11 idx_7 idx_3 idx_1628 idx_496 idx_16 idx_587
+600	  idx_18 idx_7 idx_3 idx_334 idx_1520 idx_1574 idx_425 idx_24 idx_3 idx_18 idx_600
+601	  idx_408 idx_1629 idx_1630 idx_190 idx_43 idx_1631 idx_7 idx_1103 idx_35 idx_374 idx_1632
+602	  idx_408 idx_1103 idx_189 idx_899 idx_3 idx_628 idx_7
+603	  idx_1633 idx_1103 idx_20 idx_470 idx_16 idx_18
+604	  idx_3 idx_1103 idx_18 idx_31 idx_3 idx_18 idx_346 idx_3 idx_1635 idx_7 idx_1636 idx_7 idx_1637 idx_1638 idx_1639 idx_48 idx_51 idx_1640 idx_25 idx_3 idx_1641 idx_7 idx_307 idx_18 idx_1108 idx_1642 idx_1643 idx_16 idx_3 idx_1644 idx_3 idx_1639 idx_31
+605	  idx_3 idx_1635 idx_7 idx_1636 idx_7 idx_1637 idx_1638 idx_1639 idx_48 idx_51 idx_1640 idx_25 idx_3 idx_1641 idx_7 idx_307 idx_18 idx_1108 idx_1642 idx_1643 idx_16 idx_3 idx_1644 idx_3 idx_1639 idx_31
+606	  idx_1633 idx_1103 idx_31 idx_947 idx_16 idx_3 idx_1645 idx_878 idx_7 idx_1646
+607	  idx_16 idx_3 idx_1645 idx_878 idx_7 idx_1646
+608	  idx_3 idx_1496 idx_7 idx_18 idx_18 idx_25 idx_18 idx_16
+609	  idx_3 idx_860 idx_139 idx_1087 idx_39 idx_1648 idx_16 idx_3 idx_354 idx_31
+610	  idx_345 idx_3 idx_860 idx_139 idx_1087 idx_16 idx_1649 idx_31
+611	  idx_345 idx_1650 idx_820 idx_31 idx_3 idx_155 idx_153 idx_7 idx_265 idx_356 idx_16
+612	  idx_345 idx_1650 idx_820 idx_31 idx_3 idx_155 idx_153 idx_7 idx_265 idx_356 idx_16
+613	  idx_408 idx_3 idx_139 idx_1652 idx_1653 idx_16 idx_1649 idx_31 idx_1654
+614	  idx_408 idx_3 idx_139 idx_1652 idx_1653 idx_16 idx_1649 idx_31 idx_1654
+615	  idx_3 idx_153 idx_164 idx_16 idx_1649 idx_31 idx_32 idx_150 idx_1656
+616	  idx_150 idx_1656 idx_18 idx_31 idx_3 idx_153 idx_164 idx_16
+617	  idx_3 idx_1660 idx_1661 idx_20 idx_1648 idx_21 idx_310 idx_7 idx_3 idx_1662 idx_1657 idx_96 idx_3 idx_1658 idx_1606 idx_24 idx_1659 idx_874 idx_361
+618	  idx_3 idx_1660 idx_1661 idx_20 idx_1648 idx_21 idx_310 idx_7 idx_3 idx_1662 idx_1657 idx_96 idx_3 idx_1658 idx_1606 idx_24 idx_1659 idx_874
+619	  idx_408 idx_1649 idx_291 idx_3 idx_153 idx_164 idx_16
+620	  idx_986 idx_31 idx_3 idx_153 idx_1664 idx_1665 idx_354 idx_16 idx_3 idx_589
+621	  idx_3 idx_153 idx_1664 idx_1665 idx_354 idx_16 idx_3 idx_589 idx_328 idx_31
+622	  idx_1246 idx_1527 idx_31 idx_1283 idx_21 idx_1666
+623	  idx_3 idx_1668 idx_133 idx_7 idx_1669 idx_31 idx_1388 idx_18 idx_307 idx_1513 idx_7 idx_3 idx_1667 idx_1668 idx_135 idx_7 idx_515 idx_354 idx_16
+624	  idx_1669 idx_31 idx_124 idx_84 idx_7 idx_3 idx_139 idx_1670 idx_356 idx_16 idx_602 idx_1671 idx_24
+625	  idx_1669 idx_31 idx_3 idx_866 idx_24 idx_153 idx_354 idx_7
+626	  idx_1672 idx_1673 idx_20 idx_1175 idx_1674 idx_168 idx_1675
+627	  idx_1672 idx_1673 idx_969 idx_43 idx_1515 idx_244 idx_1676
+628	  idx_35 idx_1677 idx_18 idx_18 idx_16 idx_18 idx_719 idx_18 idx_18 idx_923 idx_35 idx_134
+629	  idx_1672 idx_1673 idx_499 idx_1678 idx_168
+630	  idx_16 idx_18 idx_1672 idx_1673 idx_87 idx_21
+631	  idx_1672 idx_1677 idx_1347 idx_299 idx_1679 idx_21
+632	  idx_16 idx_374 idx_1066 idx_373 idx_1673 idx_499 idx_43
+633	  idx_18 idx_18 idx_1680 idx_1681 idx_18 idx_18 idx_1682 idx_24
+634	  idx_1683 idx_20 idx_189 idx_1684 idx_21 idx_1685 idx_322 idx_1686 idx_1687 idx_113 idx_1688 idx_1689 idx_24 idx_1690 idx_18
+635	  idx_408 idx_3 idx_1691 idx_31 idx_43
+636	  idx_408 idx_3 idx_1691 idx_31 idx_43
+637	  idx_408 idx_3 idx_1691 idx_90 idx_292
+638	  idx_408 idx_3 idx_1691 idx_90 idx_292
+639	  idx_408 idx_3 idx_1691 idx_90 idx_43 idx_1694
+640	  idx_408 idx_3 idx_1691 idx_90 idx_43 idx_1694
+641	  idx_3 idx_1696 idx_7 idx_307 idx_1691 idx_31 idx_39 idx_3 idx_1030 idx_922 idx_7 idx_3
+642	  idx_3 idx_18 idx_1696 idx_31 idx_39 idx_3 idx_1030 idx_922 idx_7 idx_3
+643	  idx_864 idx_40 idx_333 idx_1088 idx_1698 idx_1691
+644	  idx_864 idx_40 idx_333 idx_1088 idx_1698 idx_1691
+645	  idx_307 idx_1691 idx_90 idx_534 idx_1700 idx_7
+646	  idx_3 idx_1691 idx_90 idx_534 idx_1700 idx_7
+647	  idx_1702 idx_48 idx_271 idx_36 idx_851 idx_18 idx_21 idx_18
+648	  idx_3 idx_1691 idx_90 idx_43 idx_224
+649	  idx_16 idx_1704 idx_18 idx_1691 idx_48 idx_51 idx_18 idx_21 idx_595 idx_79 idx_751 idx_18 idx_24
+650	  idx_307 idx_1691 idx_1679 idx_21 idx_18
+651	  idx_21 idx_1706 idx_464 idx_18 idx_307 idx_1691 idx_48 idx_1707 idx_18 idx_18 idx_1708 idx_1709 idx_199 idx_573 idx_18
+652	  idx_73 idx_48 idx_1707 idx_18 idx_1708 idx_1709 idx_199 idx_573
+653	  idx_408 idx_3 idx_1702 idx_16 idx_3 idx_612 idx_1710 idx_1711 idx_1712 idx_80 idx_292 idx_1428 idx_24 idx_307 idx_616
+654	  idx_408 idx_1702 idx_80 idx_292 idx_1169 idx_24 idx_534 idx_1700 idx_7
+655	  idx_18 idx_374 idx_175 idx_18 idx_21 idx_374 idx_625 idx_18 idx_499 idx_571 idx_18 idx_374 idx_868 idx_571 idx_18 idx_24 idx_18 idx_24 idx_36 idx_1713 idx_722
+656	  idx_18 idx_18 idx_18 idx_18 idx_18 idx_20
+657	  idx_408 idx_3 idx_1714 idx_1715 idx_35 idx_43 idx_1716 idx_1717 idx_31 idx_244 idx_3 idx_1718
+658	  idx_206 idx_31 idx_1719 idx_187 idx_3 idx_479 idx_21 idx_51 idx_1721
+659	  idx_3 idx_1181 idx_16 idx_1722 idx_1724 idx_31 idx_1723 idx_21 idx_3
+660	  idx_1725 idx_1724 idx_40 idx_333 idx_1727 idx_21 idx_1728 idx_1729
+661	  idx_1725 idx_1724 idx_40 idx_333 idx_1727 idx_21 idx_1728 idx_1729
+662	  idx_1717 idx_1730 idx_40 idx_1451 idx_968 idx_7 idx_1731 idx_199
+663	  idx_1717 idx_1730 idx_40 idx_1451 idx_968 idx_7 idx_1731 idx_199
+664	  idx_43 idx_391 idx_1717 idx_90 idx_18
+665	  idx_1722 idx_1724 idx_40 idx_571 idx_1733 idx_309 idx_3 idx_1734 idx_24 idx_1478 idx_40
+666	  idx_1722 idx_1724 idx_40 idx_571 idx_1733 idx_309 idx_3 idx_1734 idx_24 idx_1478 idx_40
+667	  idx_119 idx_1735 idx_1724 idx_274 idx_80 idx_18
+668	  idx_1717 idx_1737 idx_36 idx_520 idx_21 idx_18 idx_1718 idx_1738 idx_1739 idx_24
+669	  idx_3 idx_1298 idx_7 idx_43 idx_1720 idx_1737 idx_40 idx_1718 idx_1738 idx_1739 idx_24
+670	  idx_35 idx_723 idx_1740 idx_18 idx_18 idx_18 idx_3 idx_18 idx_472 idx_18 idx_39 idx_374 idx_1648 idx_16 idx_18
+671	  idx_16 idx_18 idx_43 idx_720 idx_327 idx_1311 idx_18 idx_363 idx_1138 idx_350 idx_18 idx_24 idx_480 idx_3 idx_18 idx_7 idx_3 idx_18 idx_18 idx_18 idx_18 idx_37 idx_18 idx_435 idx_1741 idx_21 idx_3 idx_18 idx_18 idx_18 idx_18 idx_130 idx_43 idx_18 idx_7 idx_374
+672	  idx_476 idx_18 idx_18 idx_18 idx_187 idx_571 idx_170 idx_18 idx_1593
+673	  idx_345 idx_1742 idx_31 idx_368 idx_307 idx_672 idx_860 idx_7
+674	  idx_408 idx_1742 idx_31 idx_1145 idx_36
+675	  idx_408 idx_1742 idx_291 idx_707 idx_36 idx_3 idx_1258
+676	  idx_465 idx_18 idx_516 idx_7 idx_18 idx_1391 idx_130 idx_1745 idx_24 idx_873 idx_18
+677	  idx_864 idx_40 idx_678 idx_1743 idx_18 idx_16 idx_1745 idx_24 idx_873
+678	  idx_82 idx_7 idx_1747 idx_24 idx_82 idx_7 idx_3 idx_392
+679	  idx_3 idx_292 idx_1019 idx_1404 idx_7 idx_1432 idx_40 idx_1747 idx_24 idx_3 idx_392
+680	  idx_3 idx_1751 idx_7 idx_3 idx_1752 idx_1753 idx_25 idx_1754 idx_978 idx_18 idx_16
+681	  idx_3 idx_223 idx_7 idx_3 idx_392 idx_1742 idx_18 idx_20 idx_1749 idx_25 idx_3 idx_1751 idx_7 idx_3 idx_1752 idx_1753 idx_25 idx_1754 idx_978
+682	  idx_3 idx_839 idx_7 idx_18 idx_18 idx_1755 idx_1742 idx_130 idx_134 idx_1651 idx_672 idx_860 idx_16 idx_1131 idx_21 idx_1756 idx_3 idx_1757 idx_21 idx_1758 idx_187 idx_175 idx_1759 idx_16 idx_3
+683	  idx_25 idx_1760 idx_1743 idx_279 idx_816 idx_80 idx_43 idx_1378 idx_270 idx_7 idx_18 idx_1593
+684	  idx_1742 idx_31 idx_3 idx_1761 idx_860 idx_168 idx_1762 idx_1358 idx_16
+685	  idx_3 idx_454 idx_18 idx_1763 idx_16 idx_150
+686	  idx_84 idx_913 idx_31 idx_722 idx_3 idx_18 idx_1764
+687	  idx_18 idx_18 idx_18 idx_18 idx_20 idx_84 idx_7 idx_3 idx_153 idx_1765 idx_1766 idx_16 idx_3 idx_156 idx_24 idx_3 idx_1648 idx_21 idx_1767 idx_1768 idx_1129 idx_1764 idx_16 idx_1769 idx_24
+688	  idx_408 idx_1770 idx_1771 idx_31 idx_835 idx_25 idx_43 idx_137 idx_822 idx_7
+689	  idx_408 idx_159 idx_21 idx_3 idx_18 idx_1475 idx_1774 idx_18 idx_1770 idx_1771 idx_90 idx_3 idx_1667 idx_1598 idx_7 idx_1772 idx_24 idx_1773 idx_18 idx_7 idx_515 idx_7 idx_3 idx_111 idx_153 idx_508 idx_18 idx_39
+690	  idx_931 idx_1770 idx_1771 idx_31 idx_43 idx_1652 idx_367 idx_1775
+691	  idx_3 idx_332 idx_270 idx_7 idx_1770 idx_1771 idx_16 idx_3 idx_720 idx_18 idx_20
+692	  idx_1770 idx_1771 idx_90 idx_307 idx_332 idx_270 idx_7
+693	  idx_864 idx_31 idx_274 idx_84 idx_1527 idx_18 idx_25 idx_3 idx_18 idx_626 idx_1527 idx_18 idx_18
+694	  idx_864 idx_31 idx_84 idx_626 idx_1527 idx_16 idx_1770
+695	  idx_1770 idx_1771 idx_31 idx_930 idx_35 idx_3 idx_1309 idx_695 idx_7 idx_3 idx_10 idx_11 idx_39 idx_3 idx_18 idx_7 idx_3 idx_1770 idx_1771
+696	  idx_206 idx_20 idx_3 idx_1770 idx_1780 idx_18 idx_22 idx_18 idx_24 idx_794 idx_3 idx_18 idx_16 idx_18 idx_24
+697	  idx_3 idx_580 idx_1770 idx_1780 idx_24 idx_18 idx_18 idx_40 idx_578 idx_187 idx_310 idx_18
+698	  idx_3 idx_209 idx_7 idx_1770 idx_18 idx_1335 idx_25 idx_18 idx_7 idx_571 idx_170 idx_18 idx_18 idx_90 idx_18 idx_25 idx_745 idx_109
+699	  idx_3 idx_1662 idx_1782 idx_133 idx_31 idx_18 idx_24 idx_3 idx_209 idx_7 idx_18 idx_16 idx_1782 idx_18 idx_39 idx_18 idx_70 idx_576 idx_170 idx_3 idx_126
+700	  idx_1770 idx_18 idx_1782 idx_133 idx_31 idx_576 idx_170 idx_3 idx_126
+701	  idx_1770 idx_1771 idx_90 idx_43 idx_337 idx_1789 idx_1007 idx_24 idx_43 idx_1790 idx_1791 idx_1792 idx_16 idx_3 idx_1793
+702	  idx_43 idx_337 idx_1789 idx_1007 idx_24 idx_43 idx_1790 idx_1791 idx_1792 idx_16 idx_3 idx_1793
+703	  idx_18 idx_18 idx_24 idx_18 idx_1771 idx_978
+704	  idx_3 idx_354 idx_18 idx_7 idx_1770
+705	  idx_16 idx_18 idx_3 idx_934 idx_1755 idx_43 idx_988 idx_39 idx_3 idx_350 idx_1794 idx_24 idx_43 idx_1795 idx_32 idx_187 idx_1796 idx_7 idx_1797 idx_35 idx_3
+706	  idx_408 idx_1798 idx_31 idx_43 idx_1799
+707	  idx_408 idx_1800 idx_968 idx_1798 idx_43 idx_1801 idx_1802 idx_16 idx_857
+708	  idx_18 idx_31 idx_3 idx_1798 idx_203 idx_187 idx_3 idx_1798
+709	  idx_408 idx_1798 idx_31 idx_1087 idx_16 idx_1594 idx_7 idx_1375
+710	  idx_1798 idx_719 idx_18 idx_36 idx_18 idx_21
+711	  idx_18 idx_7 idx_1309 idx_602 idx_31 idx_3 idx_1803 idx_830 idx_860 idx_168 idx_3 idx_850 idx_209 idx_7
+712	  idx_864 idx_40 idx_18 idx_1805 idx_1804 idx_1592 idx_16
+713	  idx_206 idx_20 idx_96 idx_3 idx_874 idx_846 idx_346 idx_43 idx_18 idx_1356 idx_126 idx_860 idx_499 idx_1806 idx_21 idx_265
+714	  idx_1804 idx_18 idx_40 idx_18 idx_3 idx_1204 idx_130 idx_82 idx_7 idx_702 idx_266 idx_595 idx_292 idx_18 idx_24 idx_80 idx_307 idx_18 idx_18 idx_1807 idx_1145 idx_36 idx_3 idx_392 idx_18 idx_1807 idx_130 idx_677 idx_130 idx_43 idx_810 idx_18
+715	  idx_3 idx_615 idx_7 idx_633 idx_16 idx_1804 idx_31 idx_18 idx_25 idx_43 idx_575 idx_674 idx_7
+716	  idx_1808 idx_31 idx_16 idx_3 idx_18 idx_7 idx_3 idx_18 idx_24 idx_18
+717	  idx_3 idx_1810 idx_152 idx_1306 idx_1808 idx_21 idx_3
+718	  idx_1808 idx_90 idx_3 idx_1810 idx_152 idx_64 idx_134 idx_589
+719	  idx_1808 idx_1812 idx_31 idx_43 idx_1813 idx_1814
+720	  idx_1808 idx_1812 idx_31 idx_43 idx_1813 idx_1814
+721	  idx_3 idx_18 idx_1818 idx_18 idx_1076 idx_1819 idx_1820 idx_1818 idx_24 idx_3 idx_1821
+722	  idx_69 idx_1815 idx_1816 idx_1116 idx_18 idx_1076 idx_3 idx_1819 idx_1820 idx_1818 idx_3 idx_18 idx_1818 idx_24 idx_3 idx_1821
+723	  idx_119 idx_1824 idx_24 idx_18 idx_951 idx_89
+724	  idx_119 idx_1824 idx_24 idx_1781 idx_1163 idx_951 idx_89
+725	  idx_1808 idx_1296 idx_137 idx_18 idx_24 idx_18
+726	  idx_1808 idx_1296 idx_18 idx_18 idx_18 idx_18 idx_18 idx_18 idx_18 idx_18 idx_18 idx_24
+727	  idx_18 idx_18 idx_18 idx_18 idx_257 idx_307 idx_18
+728	  idx_3 idx_1178 idx_24 idx_18 idx_18 idx_43 idx_776 idx_18
+729	  idx_3 idx_1826 idx_24 idx_18 idx_80 idx_18
+730	  idx_18 idx_21 idx_1050 idx_265 idx_18 idx_18 idx_7 idx_589
+731	  idx_18 idx_18 idx_1231 idx_18 idx_18 idx_1549 idx_187
+732	  idx_18 idx_18 idx_180 idx_374 idx_896
+733	  idx_737 idx_1180 idx_167 idx_3 idx_13 idx_1180 idx_504 idx_16 idx_3 idx_1827 idx_18
+734	  idx_1828 idx_31 idx_3 idx_672 idx_860 idx_7
+735	  idx_3 idx_1828 idx_860 idx_1829 idx_20 idx_656 idx_16
+736	  idx_1060 idx_3 idx_139 idx_694 idx_802 idx_1830 idx_21 idx_1828 idx_1831 idx_40 idx_1624 idx_1681 idx_1625 idx_1682 idx_1680 idx_24 idx_18
+737	  idx_187 idx_3 idx_1834 idx_1835 idx_1836 idx_24 idx_374 idx_1837 idx_1838 idx_1839
+738	  idx_3 idx_1832 idx_1833 idx_167 idx_18 idx_16 idx_18 idx_7 idx_3 idx_1834 idx_1835 idx_1836 idx_24 idx_374 idx_1837 idx_1838 idx_1839
+739	  idx_43 idx_1842 idx_836 idx_16 idx_1843 idx_36 idx_1651 idx_328
+740	  idx_864 idx_20 idx_43 idx_1842 idx_836 idx_16 idx_1843 idx_36 idx_134 idx_961 idx_1651 idx_328
+741	  idx_309 idx_206 idx_31 idx_189 idx_969 idx_187 idx_3 idx_1848
+742	  idx_309 idx_206 idx_31 idx_189 idx_969 idx_187 idx_3 idx_1848
+743	  idx_864 idx_40 idx_776 idx_531 idx_1062 idx_1593 idx_439 idx_1592
+744	  idx_18 idx_31 idx_1067 idx_35 idx_3 idx_18
+745	  idx_408 idx_1828 idx_124 idx_90 idx_307 idx_18 idx_18 idx_21 idx_3 idx_18 idx_7 idx_3 idx_18 idx_3 idx_1850 idx_31 idx_1563 idx_18 idx_168 idx_84 idx_18 idx_18 idx_21 idx_451
+746	  idx_18 idx_7 idx_3 idx_1828 idx_1831 idx_80 idx_1828
+747	  idx_33 idx_3 idx_18 idx_7 idx_3 idx_489 idx_7 idx_18 idx_24 idx_3 idx_18 idx_18 idx_3 idx_1828 idx_860 idx_1829 idx_18 idx_20 idx_1755 idx_16
+748	  idx_16 idx_1851 idx_18 idx_3 idx_1852 idx_18 idx_368 idx_18 idx_79 idx_3 idx_18 idx_707 idx_7 idx_3
+749	  idx_1852 idx_40 idx_18 idx_25 idx_292 idx_18 idx_18 idx_24
+750	  idx_292 idx_1853 idx_199 idx_1404 idx_7 idx_1853 idx_294 idx_51 idx_577 idx_16 idx_1458 idx_7 idx_292 idx_18 idx_18 idx_199
+751	  idx_310 idx_1831 idx_90 idx_29 idx_1623 idx_36
+752	  idx_1854 idx_499 idx_3 idx_672 idx_1855 idx_860 idx_25 idx_3 idx_874
+753	  idx_368 idx_604 idx_21 idx_18 idx_18 idx_18 idx_18 idx_199 idx_18
+754	  idx_707 idx_346 idx_18 idx_1511 idx_1339 idx_16 idx_3 idx_1204 idx_913 idx_509 idx_709 idx_1856 idx_653 idx_944 idx_24
+755	  idx_1854 idx_18 idx_707 idx_36 idx_1358 idx_22 idx_1085 idx_1511
+756	  idx_408 idx_1854 idx_20 idx_18 idx_359 idx_1857 idx_3 idx_1358 idx_1858
+757	  idx_408 idx_1854 idx_90 idx_43 idx_18 idx_337 idx_209 idx_7
+758	  idx_3 idx_41 idx_1575 idx_40 idx_18 idx_18 idx_24
+759	  idx_3 idx_1859 idx_7 idx_18 idx_18 idx_16
+760	  idx_345 idx_1854 idx_122 idx_368 idx_1856 idx_36 idx_944 idx_24
+761	  idx_345 idx_1358 idx_1348 idx_21 idx_1860 idx_1671 idx_16 idx_3 idx_1861 idx_846
+762	  idx_571 idx_600 idx_1592 idx_1849 idx_3 idx_1375 idx_1600 idx_170 idx_18 idx_1849 idx_3 idx_18
+763	  idx_18 idx_1229 idx_18 idx_949 idx_3 idx_18 idx_18 idx_801 idx_36
+764	  idx_43 idx_1190 idx_199 idx_1191 idx_43 idx_1192
+765	  idx_3 idx_573 idx_7 idx_18 idx_18 idx_1405
+766	  idx_18 idx_18 idx_18 idx_1171 idx_1862 idx_1863
+767	  idx_408 idx_206 idx_31 idx_3 idx_1063 idx_24 idx_1864 idx_370 idx_7 idx_3 idx_1192 idx_211 idx_7 idx_1865 idx_1866 idx_22 idx_189 idx_1380 idx_3 idx_979 idx_24
+768	  idx_18 idx_18 idx_18 idx_18 idx_1068 idx_24
+769	  idx_18 idx_18 idx_7 idx_18 idx_24 idx_1375
+770	  idx_18 idx_1868 idx_18 idx_18 idx_262 idx_18

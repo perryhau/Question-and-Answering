@@ -34,7 +34,7 @@ else
     LookupTable = nn.LookupTableMaskZero
 end
 
-cutorch.setDevice(1)
+cutorch.setDevice(3)
 print("Number of gpus="..cutorch.getDeviceCount())
 print("Using gpu with id="..cutorch.getDevice())
 
@@ -44,15 +44,16 @@ local DATA_DIR = "../../"
 local params = {
                 batch_size=20, -- number of qa-pairs per one forward-backward
                 layers=1,      -- decides how many layers of LSTMs we want to use
-                wvec_size=100,
-                rnn_size=141,
+                wvec_size=150,
+                rnn_size=150,
                 dropout=0.5,
-                lr=1.1,
+                lr=0.5,
                 vocab_size=10000,
                 max_epoch=30,
                 margin=0.2,
                 anspool=50,
-                maxseqlen=200 }
+                maxseqlen=200,
+                cuda_device=1 }
 
 
 
@@ -110,7 +111,7 @@ local function setup()
 
 print("#Creating a bi-directional RNN(LSTM) network..")
 
-if ( not( tonumber(arg[1])>=1 and tonumber(arg[1])<=4 ) ) then
+if ( arg[1] ~= "load" ) then
 
    qmod,maxcosmod=create_modules()
    -- Sharing LookupTable for both to and fro RNN
@@ -122,7 +123,7 @@ if ( not( tonumber(arg[1])>=1 and tonumber(arg[1])<=4 ) ) then
 
    --Add WordVectors
    print("#Initializing LookupTable with word vectors..")
-   local embeddingsFile,msg = io.open(string.format('%s/data/LiveQA/Words2Vectors',DATA_DIR),"r")
+   local embeddingsFile,msg = io.open(word2vecfile,"r")
    local all=embeddingsFile:read("*all")
    vectable={}
    for line in string.gmatch(all,"([^\n]*)\n") do
@@ -151,9 +152,9 @@ if ( not( tonumber(arg[1])>=1 and tonumber(arg[1])<=4 ) ) then
 
 print("->Created the network.")
 
-else -- first argument is between 1-to-4
+else -- load the existing net
 
-  cutorch.setDevice(tonumber(arg[1]))
+  cutorch.setDevice(params.cuda_device)
   qmod=torch.load('./qamod.best.net')
   amod=qmod:clone('weight','bias')
   wamod=amod:clone('weight','bias')
@@ -229,6 +230,7 @@ local function check_valid()
 
            local amatrix,amask=texts2matrix(texts,maxlen)
            avecmatrix:narrow(1,i,stepsize):copy(torch.max(nn.JoinTable(3):cuda():forward(avecmod:forward(amatrix)),3)) -- amask will make the filler's output invalid while taking torch.max
+           --print("% of answer generated="..(i+stepsize-1)/#answerdict)
      end
 
 
@@ -345,7 +347,6 @@ local function main()
 
   local epoch_size = counter:size(1) 
   local round = 0
-   
 
 while epoch < params.max_epoch do
     
@@ -494,9 +495,10 @@ while epoch < params.max_epoch do
           print("->Saved nets amod.net,qamod.net ")
           listofwas={} -- referesh this table for later epochs
           prevepoch=epoch
+
     end
 
-   if ( step >  round*epoch_size  ) then 
+   if ( step >  round*epoch_size*0.1  ) then 
       round=round+1
 
       -- decreasing lr
@@ -504,11 +506,10 @@ while epoch < params.max_epoch do
       --print(" Changing lr to ".. params.lr)
 
      local accuracy=check_valid()
-     local accuracy=0
      if   ( accuracy > maximum_accuracy ) then
         maximum_accuracy=accuracy
         print("->Maximum accuracy so far="..maximum_accuracy)
-        torch.save('qamod.best.net',qvecmod)
+        torch.save('qamod.best.net',qmod_save)
     end
    end
     

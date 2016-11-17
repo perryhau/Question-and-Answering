@@ -12,11 +12,11 @@ require 'cunn/init'
 
 -- Global variables 
 vocabfile="./data/vocabulary"
-answersfile="./data/answers.label.token_idx"
-word2vecfile="./data/vocabulary"
-trainingfile="./data/question.train.token_idx.label"
-validationfile="./data/question.dev.label.token_idx.pool"
+answersfile="./data/answers.txt"
+trainingfile="./data/question.train.txt"
+validationfile="./data/question.dev.txt"
 listofwasfile="./data/list_of_wronganswers.txt"
+word2vecfile="./data/Words2Vectors"
 
 
 function table.contains(table, element)
