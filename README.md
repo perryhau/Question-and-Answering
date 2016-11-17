@@ -8,9 +8,9 @@
   
   Training:
 
-          : th qa_lstm.lua -- To create a new network
+          : th qa_lstm.lua -- To train with a new network initialization
 
-          : th qa_lstm.lua load-- To  load an existing network 
+          : th qa_lstm.lua load-- To load an existing network and train 
   
 
 
@@ -22,11 +22,15 @@
  Make sure that the qa corpus have the following pattern:
 
 \#question
+
 "question text"
+
 \#answer
+
 "answer text"
 
 
  Place it in the folder make_corpus and run the following:
- the makeitlikeins.lua <your qa corpus >
+
+ the makeitlikeins.lua \<your qa corpus \>
    
