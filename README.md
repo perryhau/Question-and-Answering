@@ -32,5 +32,5 @@
 
  Place it in the folder make_corpus and run the following:
 
-               th makeitlikeins.lua \<your_qa_corpus.txt\>
+               th makeitlikeins.lua <your_qa_corpus.txt>
    
