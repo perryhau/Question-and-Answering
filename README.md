@@ -35,4 +35,4 @@
                th makeitlikeins.lua <your_qa_corpus.txt>
    
 
- The sample corpus added in the repository is made from http://agarciaduran.org/index.php/2016/02/20/data-set/
+ The sample corpus added in the repository is made from http://www.cs.cmu.edu/~ark/QA-data/
