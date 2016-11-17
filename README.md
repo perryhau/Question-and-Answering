@@ -36,3 +36,9 @@
    
 
  The sample corpus added in the repository is made from http://www.cs.cmu.edu/~ark/QA-data/
+
+
+Dependencies:
+--------------------------
+torch7
+
